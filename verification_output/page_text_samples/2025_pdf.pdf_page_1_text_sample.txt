@@ -1,0 +1,26 @@
+FILE: 2025_pdf.pdf
+PAGE: 1
+METADATA:
+{
+  "doc_id": "9f0b6904723a9850",
+  "file_name": "2025_pdf.pdf",
+  "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+  "page": 1,
+  "page_index": 0,
+  "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_1.png",
+  "source_kind": "text",
+  "chunk_type": "page_text"
+}
+
+CONTENT:
+[DOCUMENT: 2025_pdf.pdf]
+[PAGE: 1]
+[SOURCE TYPE: PDF TEXT]
+
+IN BRIEF 
+FOOD AND 
+AGRICULTURE
+THE STATE OF 
+ADDRESSING LAND DEGRADATION
+ACROSS LANDHOLDING SCALES
+2025

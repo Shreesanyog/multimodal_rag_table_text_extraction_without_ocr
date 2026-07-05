@@ -1,0 +1,79 @@
+FILE: 2023_pdf.pdf
+PAGE: 3
+METADATA:
+{
+  "doc_id": "b06cf2a09c2660b3",
+  "file_name": "2023_pdf.pdf",
+  "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2023_pdf.pdf",
+  "page": 3,
+  "page_index": 2,
+  "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\b06cf2a09c2660b3\\page_3.png",
+  "source_kind": "text",
+  "chunk_type": "page_text"
+}
+
+CONTENT:
+[DOCUMENT: 2023_pdf.pdf]
+[PAGE: 3]
+[SOURCE TYPE: PDF TEXT]
+
+| 3 |
+CONTENTS
+CORE MESSAGES
+4
+FOREWORD
+6
+SUMMARY
+9
+Factoring the costs and benefits of 
+agrifood systems into decisions
+10
+ FIGURE 1 How assessments of capital flows can 
+inform levers for agrifood systems transformation
+11
+ FIGURE 3 Two-phase agrifood systems 
+assessment process
+13
+Preliminary assessment of the hidden 
+costs of agrifood systems for 
+154 countries
+15
+ FIGURE 5 Scope of the analysis: agrifood systems 
+stages and pathways through which hidden costs 
+manifest
+16
+ FIGURE 6 Quantified hidden costs of agrifood systems 
+by cost category (left) and subcategory (right), 2020
+17
+ FIGURE 7 Total quantified hidden costs of agrifood 
+systems by income group
+18
+ FIGURE 8 Share of quantified hidden costs of agrifood 
+systems to GDP by income group (hidden costs per 
+capita on the right-hand side)
+18
+ FIGURE 9 Quantified hidden costs of agrifood 
+systems by subcategory for selected countries by 
+income level (share of hidden costs to GDP [2020 
+PPP dollars] on the right-hand side)
+19
+Moving on to targeted true cost 
+accounting assessments: the second 
+phase of a two-phase process
+20
+ FIGURE 11 A four-step process to initiate and scale 
+up targeted agrifood systems assessments
+21
+ FIGURE 13 The role of scenarios in informing policymaking
+22
+Mainstreaming true cost accounting 
+for agrifood systems transformation: 
+opportunities and challenges
+23
+ FIGURE 15 Levers for agrifood systems transformation
+24
+For the first time ever, FAO will 
+dedicate two consecutive editions of 
+The State of Food and Agriculture to 
+the same theme
+26

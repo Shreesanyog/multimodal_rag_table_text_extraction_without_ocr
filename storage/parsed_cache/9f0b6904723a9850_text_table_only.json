@@ -1,0 +1,648 @@
+{
+  "documents": [
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 1]\n[SOURCE TYPE: PDF TEXT]\n\nIN BRIEF \nFOOD AND \nAGRICULTURE\nTHE STATE OF \nADDRESSING LAND DEGRADATION\nACROSS LANDHOLDING SCALES\n2025",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 1,
+        "page_index": 0,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_1.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 2]\n[SOURCE TYPE: PDF TEXT]\n\nThis booklet contains the core messages and content from The State of Food and Agriculture 2025. The numbering of \ntables and figures corresponds to that publication, available at: https://doi.org/10.4060/cd7067en\nRequired citation: \nFAO. 2025. In Brief to The State of Food and Agriculture 2025 - Addressing land degradation across landholding scales. \nRome. https://doi.org/10.4060/cd7071en\n \nThe designations employed and the presentation of material in this information product do not imply the expression of \nany opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations (FAO) concerning the \nlegal or development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its \nfrontiers or boundaries. Dashed lines on maps represent approximate border lines for which there may not yet be full \nagreement. The mention of specific companies or products of manufacturers, whether or not these have been patented, \ndoes not imply that these have been endorsed or recommended by FAO in preference to others of a similar nature that \nare not mentioned. \n \nISBN 978-92-5-140144-6\n© FAO, 2025\n \n \n \nSome rights reserved. This work is made available under the Creative Commons Attribution- 4.0 International licence \n(CC BY 4.0: https://creativecommons.org/licenses/by/4.0/legalcode.en). \nUnder the terms of this licence, this work may be copied, redistributed and adapted, provided that the work is \nappropriately cited. In any use of this work, there should be no suggestion that FAO endorses any specific organization, \nproducts or services. The use of the FAO logo is not permitted. If a translation or adaptation of this work is created, it \nmust include the following disclaimer along with the required citation: “This translation [or adaptation] was not created \nby the Food and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy \nof this translation [or adaptation]. The original English edition shall be the authoritative edition.” \n \nAny dispute arising under this licence that cannot be settled amicably shall be referred to arbitration in accordance with \nthe Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL). The parties shall be \nbound by any arbitration award rendered as a result of such arbitration as the final adjudication of such a dispute. \n \nThird-party materials. This Creative Commons licence CC BY 4.0 does not apply to non-FAO copyright materials included \nin this publication. Users wishing to reuse material from this work that is attributed to a third party, such as tables, \nfigures or images, are responsible for determining whether permission is needed for that reuse and for obtaining \npermission from the copyright holder. The risk of claims resulting from infringement of any third-party-owned component \nin the work rests solely with the user. \n \nFAO photographs. FAO photographs that may appear in this work are not subject to the above-mentioned Creative \nCommons licence. Queries for the use of any FAO photographs should be submitted to: \nphoto-library@fao.org. \n \nSales, rights and licensing. FAO information products are available on the FAO website (www.fao.org/publications) and \nprint copies can be purchased through the distributors listed there. For general enquiries about FAO publications please \ncontact: publications@fao.org. Queries regarding rights and licensing of publications should be submitted to: \ncopyright@fao.org. \n \nCOVER PHOTOGRAPH © iStock.com/Andrey Danilovich\nRUSSIAN FEDERATION. Aerial view of cereal fields.",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 2,
+        "page_index": 1,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_2.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 3]\n[SOURCE TYPE: PDF TEXT]\n\n| 3 |\nCORE MESSAGES\n4\nFOREWORD\n6\nSUMMARY\n9\n FIGURE 3 Spectrum of land degradation and \nrestoration pathways\n10\n FIGURE 5 Drivers of agricultural land use and \nmanagement\n11\n FIGURE 10 Population hotspots exposed to \ndegradation-induced yield losses and all-cause \nyield gaps\n13\n FIGURE 9 Estimated annual and average production \nlosses due to land degradation by income group\n14\n FIGURE 11 Poverty, degradation-induced yield losses \nand all-cause yield gaps for sub-Saharan Africa and \nSouthern Asia\n15\n FIGURE 13 Distribution of 571 million farms \nby region, 2025\n16\n FIGURE 15 Proportion of holdings and area operated \nby region\n17\n FIGURE 18 Share of dietary energy, proteins and fats \nsupplied by crop production by farm size\n18\n TABLE 3 Land management vs land-use change \ninterventions by type of policy instrument\n22\n FIGURE 24 Strategic responses across land degradation \nstages: from improving land management to full-scale \nland restoration\n23\nCONTENTS",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 3,
+        "page_index": 2,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_3.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 4]\n[SOURCE TYPE: PDF TEXT]\n\n1\nLand is a finite, essential, non-substitutable \nresource that underpins food security, livelihoods, \nbiodiversity, and mitigation of and adaptation to \nclimate change. Yet, land degradation - driven by \nintensifying pressures - is now a pervasive and silent \nglobal challenge, eroding productivity and ecosystem \nhealth in countries of all income levels.\n2\nLand degradation - driven by human activities \nsuch as deforestation, overgrazing and \nunsustainable farming - refers to a persistent decline \nin land’s ability to sustain ecosystem functions and \nservices. Its impacts range from subtle productivity \nlosses to complete agricultural abandonment - \nreinforcing the urgent need for sustainable land \nmanagement or restoration.\n3\nAround 1.7 billion people live in areas \nexperiencing sizeable degradation-induced crop \nyield losses. Middle-income countries are the most \naffected, accounting for nearly 1 billion people. In \nhigh-income countries, intensive input use sustains \nyields but masks degradation and increases \nenvironmental harm.\n4\nFarm size strongly influences land management \nand food production strategies, as well as farmers’ \nability to address land degradation. Of the world’s \n570 million farms, 85 percent are smaller than \n2 hectares (ha) and cultivate just 9 percent of \nfarmland, while the 0.1 percent of farms over 1 000 ha \ncontrol nearly 50 percent. Medium-sized farms - those \nbetween 2 ha and 50 ha - play a particularly important \nrole in Africa and Asia, where they manage about half \nof all agricultural land.\n5\nThe vast diversity in farm size underscores the \nneed for scale-sensitive approaches to land \ndegradation, food security and sustainability. \nSmallholder farmers working under resource \nconstraints and on marginal lands require targeted \nsupport to sustainably intensify production.\n6\nClosing yield gaps, especially in socioeconomically \nvulnerable hotspots in sub-Saharan Africa and \nSouthern Asia, without further degrading land, \ndepends on access to appropriate technologies and \nextension services, secure tenure, and inclusive \nfinancing, alongside enabling environments that break \nunsustainable patterns.\n7\nTackling land degradation at scale hinges on \nengaging large commercial farms, whose \nmanagement decisions shape most of the world’s \nagricultural land. Effective policies, environmental \ncompliance and incentive schemes that reward \necosystem stewardship are essential to align \nproductivity goals with long-term sustainability.\n8\nThe viability of farms of all sizes is central to \nensuring food security. Medium and large farms \nproduce, respectively, 26 percent and 58 percent of \nCORE MESSAGES\n| 4 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 4,
+        "page_index": 3,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_4.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 5]\n[SOURCE TYPE: PDF TEXT]\n\nthe kilocalories provided by crops globally; they play a \nkey role in global trade and supply chains. On the other \nhand, smallholders, while producing just 16 percent \nglobally, are vital in low- and lower-middle-income \ncountries, where they account for about 60 percent.\n9\nRestoration strategies must be tailored to the \nseverity and context of land degradation. Severely \ndegraded areas may require transformative \ninterventions, while land still in production can benefit \nfrom improved management practices.\n10\nAgri-environmental policies aimed at \nimproving land use and management are \nexpanding globally, but their adoption remains uneven. \nWhile high-income countries have implemented a wide \nrange of regulatory and incentive-based approaches, \nlow-income countries face constraints in deploying \nsuch measures; this highlights disparities in policy \npriorities, institutional capacity and access to \nresources.\n11\nRegulatory measures consistently improve land \nconditions across all land cover types; on the \nother hand, agri-environmental payments are \nparticularly effective on forest lands and croplands - \nbut they require funding. A combination of both \napproaches generates the greatest potential to align \nprivate incentives with public benefits for reversing \nland degradation.\n12\nLand degradation is neither inevitable nor \nirreversible. Strategic investments in people, \ninstitutions and land-friendly practices can transform \nagriculture from a driver of degradation to a source of \nrestoration, strengthening agrifood systems and \nsafeguarding the natural foundations of human \nwell-being.\n| 5 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 5,
+        "page_index": 4,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_5.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 6]\n[SOURCE TYPE: PDF TEXT]\n\nA\ngriculture stands as one of humanity’s most transformative achievements. \nIt has enabled the rise of civilizations, sustained growing populations, and \nshaped the landscapes we depend on today. It is a testament to our collective \ningenuity, cooperation and capacity to adapt.\nYet, the very success of agriculture has brought new challenges. The land that has \nlong sustained us is now under pressure. Agricultural expansion remains the leading \ndriver of global deforestation. In some regions, cropland continues to expand at the \nexpense of forests and rangelands, while in others, land is being abandoned due to \ndegradation. Today, nearly 1.7 billion people live in areas where land degradation \ncontributes to yield losses and food insecurity. These impacts are unevenly \ndistributed: in high-income countries, degradation is often masked by intensive input \nuse, while in low-income countries, especially in sub-Saharan Africa, yield gaps are \ndriven by limited access to inputs, credit and markets. The convergence of degraded \nland, poverty and malnutrition creates vulnerability hotspots that demand urgent, \ntargeted and comprehensive responses.\nThis year’s The State of Food and Agriculture report focuses on land degradation - \na growing threat to agricultural productivity, food security and ecosystem resilience. \nIt presents new evidence on the economic costs of degradation and the potential for \nrecovery across all scales of agricultural production. From smallholders managing \nmarginal plots to large-scale commercial farms operating vast swathes of land, the \nreport highlights how targeted investments and sustainable practices can contribute \nto land productivity and strengthen the resilience of agrifood systems. The report also \nprovides updated global estimates on farm numbers and land distribution, offering \nnew insights into who is producing what. \nOf the approximately 570 million farms worldwide, 85 percent are smaller than \n2 hectares, yet they operate just 9 percent of agricultural land. In contrast, farms over \n1 000 hectares represent only 0.1 percent of all farms but manage half of the world’s \nfarmland. Despite persistent constraints, nearly 500 million smallholders contribute \nsignificantly to global food supply. At the same time, larger farms - particularly \n| 6 |\nFOREWORD",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 6,
+        "page_index": 5,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_6.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 7]\n[SOURCE TYPE: PDF TEXT]\n\nthose exceeding 50 hectares - have a disproportionate influence on land use and food \nprovision, positioning them as key actors in the global response to land degradation. \nThese patterns underscore the need for differentiated strategies that reflect the \ndiversity of land users and their roles in shaping sustainable agrifood systems.\nEncouragingly, the report offers a message of hope. Reversing land degradation on \nexisting croplands through sustainable land use and management could close yield \ngaps to support the livelihoods of hundreds of millions of producers. Additionally, \nrestoring abandoned cropland could feed hundreds of millions more people. These \nfindings represent real opportunities to improve food security, reduce pressure on \nnatural ecosystems, and build more resilient agrifood systems.\nTo seize these opportunities, we must act decisively. Sustainable land management \nrequires enabling environments that support long-term investment, innovation and \nstewardship. Secure land tenure - for both individuals and communities - is essential. \nWhen land users have confidence in their rights, they are more likely to invest in soil \nconservation, crop diversity and productivity. Yet, gender disparities persist. In many \ncountries, women remain less likely to hold secure land rights, despite evidence that \nempowering women leads to better outcomes for households and ecosystems.\nPolicy instruments must be tailored to context. Regulatory approaches such as \nland-use zoning and conservation mandates are essential, but their effectiveness \ncan be enhanced by incentive-based mechanisms and cross-compliance schemes. \nAgri-environmental payments and conditional support can align private incentives \nwith public benefits - but only if they are economically viable and well targeted. \nAt FAO, we are committed to supporting Members in achieving Land Degradation \nNeutrality targets and the Sustainable Development Goals. Through innovation, \npartnerships and targeted investment, we can transform agriculture into a force for \nregeneration - delivering on the Four Betters: better production, better nutrition, a \nbetter environment and a better life - leaving no one behind.\n| 7 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 7,
+        "page_index": 6,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_7.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 8]\n[SOURCE TYPE: PDF TEXT]\n\nFOREWORD\nIn 2025, FAO is reaffirming its commitment to sustainable land management. This \nedition of The State of Food and Agriculture is part of this commitment to provide a \ncomprehensive evidence base to guide policy, investment and action at all levels.\nThe land has sustained us for millennia. Now, it is our turn to care for it - wisely, \njustly and together for a better food-secure future for generations to come.\nQu Dongyu\nFAO Director-General\n| 8 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 8,
+        "page_index": 7,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_8.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 9]\n[SOURCE TYPE: PDF TEXT]\n\nSUMMARY\n| 9 |\nL\nand is the foundation of our \nglobal agrifood systems, \nsupporting over 95 percent of food \nproduction while providing essential \necosystem services that sustain life \non Earth. As a finite resource, it \nfaces unprecedented pressures from \ncompeting demands including urban \nexpansion, biofuel production, and \nchanging consumption patterns driven \nby rising incomes and shifting diets. \nThis critical resource underpins not \nonly food security but also biodiversity \nconservation, climate regulation \nand the livelihoods of 892 million \nagricultural workers globally.\nThe expansion of agriculture has fundamentally \ntransformed land-use patterns across the \nplanet over the centuries. In the twenty-first \ncentury, between 2001 and 2023, \nglobal agricultural area decreased by \n78 million hectares (Mha) (−2 percent), \nwith cropland area increasing by 78 Mha \nand permanent meadows and pastures \ndecreasing by 151 Mha. \nThese changes exhibit significant \nregional variations. Sub-Saharan Africa \nwitnessed cropland expansion of 69 Mha \naccompanied by 72 Mha of forest loss, \nwhile Latin America saw 25 Mha of \ncropland growth alongside 85 Mha of net \nforest area loss. Agricultural expansion \nremains the primary driver of global \ndeforestation, accounting for nearly \n90 percent of forest loss. In this century, \nanother important aspect to consider is \nthat approximately 3.6 Mha of croplands \nare abandoned annually, with land \ndegradation likely playing a significant \nrole in these losses.\nHuman-induced land degradation represents \na growing threat to agricultural productivity \nand food security. This long-term \ndecline in land’s capacity to provide \nessential ecosystem functions results \nfrom complex interactions between \nenvironmental pressures and human \nactivities including deforestation, \novergrazing, and unsustainable \nfarming practices leading to nutrient",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 9,
+        "page_index": 8,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_9.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 10]\n[SOURCE TYPE: PDF TEXT]\n\nSUMMARY\n| 10 |\ndepletion and salinization. Today, \nthis degradation manifests across \nall agricultural landscapes, creating \na spectrum of impacts from subtle \nproductivity declines to complete \nagricultural abandonment.\nThis troubling pattern unfolds within \na wider context of systemic strain \non agricultural production systems. \nDespite remarkable productivity \ngains that have quadrupled global \nagricultural output since 1961 with \nlimited land expansion, worrying trends \nhave emerged. Total factor productivity \ngrowth, which reflects technological \nadvancement and efficiency \nimprovements, has declined since the \n2000s, particularly in the Global South \nwhere some countries show negative \ngrowth rates. This decline, coupled with \npersistent yield gaps between potential \nand actual production, threatens \nfuture food security and may drive \nfurther agricultural expansion into \nfragile ecosystems.\nThe international community has recognized \nland degradation as a critical challenge, \nwith over 130 countries committing to Land \nDegradation Neutrality under the United \nNations Convention to Combat Desertification \n(UNCCD). Achieving this goal requires \nbalancing degradation with restoration \nto maintain the total stock of healthy \nland. However, although restoration \ninvestments offer returns far exceeding \ncosts, most benefits accrue to wider \nsociety well into the future, while costs \nfall on individual landholders today. \nThis creates a misalignment between \nprivate incentives and public goods \nthat necessitates supportive policies \nand public investment.\n FIGURE 3 SPECTRUM OF LAND DEGRADATION AND RESTORATION PATHWAYS\nLAND RESTORATION\nHEALTHY LAND\nABANDONMENT\nMODERATE\nDEGRADATION \nSEVERE\nDEGRADATION \nEARLY\nDEGRADATION\nSOURCE: Authors’ own elaboration.\n| 10 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 10,
+        "page_index": 9,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_10.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 11]\n[SOURCE TYPE: PDF TEXT]\n\nFIGURE 5 DRIVERS OF AGRICULTURAL LAND USE AND MANAGEMENT\nLOCAL DRIVERS\nAVAILABLE INPUTS\nAGRICULTURAL PRODUCTION & ENVIRONMENTAL SERVICES\nAGRICULTURAL LANDHOLDINGS\nNATIONAL DRIVERS\nGLOBAL DRIVERS\nGLOBAL MARKETS & TRADE\nFOREIGN DIRECT INVESTMENT \n& LAND ACQUISITIONS \nINTERNATIONAL POLICIES\nCLIMATE CHANGE\nSOCIOECONOMIC CONTEXT\ne.g. demographics, migration,\nurbanization, domestic markets \nENVIRONMENTAL CONDITIONS\ne.g. extreme weather events, land \nquality, soil suitability, \nenvironmental services, water\nINFRASTRUCTURE\n& TECHNOLOGY\nLAND TENURE\n& MARKETS\nPOLICIES & INSTITUTIONS \nLand\nSmall\nLabour\nCapital\nWater\nIntermediate inputs \ne.g. seeds, fertilizers\nInformation\nMedium\nLarge\nNOTE: The depiction of small, medium and large agricultural holdings is conceptual; specific definitions used elsewhere in this report are \nsmall (<2 ha), medium (2-50 ha) and large (>50 ha).\nSOURCE: Authors’ own elaboration.\nLand-use decisions emerge from a \ncomplex web of drivers operating at \nglobal, national and local levels. Global \nmarkets and trade allow countries \nto draw on resources from exporting \nnations while transmitting consumption \nimpacts across borders. At national \nlevel, policies, infrastructure and \ninstitutions shape the context within \nwhich farmers operate, while local \ndecisions reflect farmers’ available \nresources including land size, \ncapital, tenure, and access to inputs \nand information.\nThe heterogeneity in land management affects \ndegradation of croplands in major ways. This \nmatters for food security because \nTHE STATE OF FOOD AND AGRICULTURE 2025 IN BRIEF \n| 11 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 11,
+        "page_index": 10,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_11.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 12]\n[SOURCE TYPE: PDF TEXT]\n\nSUMMARY\ncroplands produce the vast majority of \nglobal calories and proteins. However, \nunderstanding the true impact of \nland degradation on food production \nrequires sophisticated analysis. \nThis report presents new evidence \nestablishing a causal relationship \nbetween historical land degradation \nand current yield losses on croplands, \nisolating the specific impacts of \ndegradation from other factors affecting \nagricultural productivity. \nThe human toll of land degradation on croplands \nis sobering: approximately 1.7 billion people \nworldwide live in areas experiencing yield gaps \nlinked to human-induced land degradation. \nThe largest affected populations \nreside in Eastern and Southern Asia \nregions that have accumulated a \nsubstantial degradation debt and \nalso have high population densities. \nRemarkably, reversing just 10 percent of \nhuman-induced degradation on current \ncroplands could restore production \nsufficient to feed an additional \n154 million people annually. However, \nthese figures represent only a fraction \nof the true cost. First, these estimates \noverlook the role of degradation in \nland abandonment. Research suggests \nthat restoring abandoned croplands to \nproductive use could potentially feed \nbetween 292 and 476 million people. \nSecond, the estimates exclude impacts \non pasturelands and the broader \necosystem services that benefit society \nat large, making land degradation a \nchallenge requiring collective action for \nthe provision of these public goods.\nThe relationship between land degradation and \nagricultural productivity varies dramatically \nacross regions and income levels. In \nhigh-income countries with intensive \nagricultural systems, the per hectare \nproduction losses from degradation \nare particularly severe, though \noften masked by heavy application \nof synthetic fertilizers and other \ninputs. This compensatory strategy \ncreates a troubling paradox: while \nmaintaining high yields in the short \nterm, it generates diminishing returns, \nincreases production costs, and often \nexacerbates the underlying degradation \nthrough soil acidification, nutrient \nimbalances and pollution. Furthermore, \nthreshold effects associated with \nland degradation may lead to land \nabandonment in areas with a long \nhistory of intensive agricultural systems.\nIn stark contrast, most of sub-Saharan \nAfrica exhibits relatively low \ndegradation-induced yield losses, not \nbecause soils are healthier, but because \nother constraints - including limited \naccess to inputs, mechanization, credit \nand markets - dominate as causes of \nyield gaps. This finding carries crucial \npolicy implications: while avoiding \nland degradation remains important, \naddressing these constraints would \nhave more immediate impact on \nclosing yield gaps in these regions. \nHowever, this must be done carefully \nto avoid repeating the unsustainable \nintensification pathways that have led to \ncostly degradation in today’s high-input \nagricultural systems.\n| 12 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 12,
+        "page_index": 11,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_12.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 13]\n[SOURCE TYPE: PDF TEXT]\n\nFIGURE 10 POPULATION HOTSPOTS EXPOSED TO DEGRADATION-INDUCED YIELD LOSSES AND \nALL-CAUSE YIELD GAPS\nYIELD GAP\nPOPULATION\nYIELD LOSS\nPOPULATION\nB)\nA)\nNOTES: Refer to the disclaimer on the copyright page for the names and boundaries used in this map. Panel A indicates populations exposed to \ndegradation-induced yield losses. Panel B indicates populations exposed to all-cause yield gaps.\nSOURCE: Hadi, H. & Wuepper, D. 2025. A global yield gap assessment to link land degradation to socioeconomic risks - Background paper for \nThe State of Food and Agriculture 2025. FAO Agricultural Development Economics Working Paper 25-16. Rome, FAO.\nTHE STATE OF FOOD AND AGRICULTURE 2025 IN BRIEF \n| 13 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 13,
+        "page_index": 12,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_13.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 14]\n[SOURCE TYPE: PDF TEXT]\n\nSUMMARY\n FIGURE 9 ESTIMATED ANNUAL AND AVERAGE PRODUCTION LOSSES DUE TO LAND DEGRADATION \nBY INCOME GROUP\nNOTES: Panel A shows the total annual production loss for each income group associated with a simulated 1 percent increase in land \ndegradation. Panel B shows the average national per hectare production loss for countries within each income group associated with a \nsimulated 1 percent increase in land degradation. Country income groups are classified as low-income countries (LICs), lower-middle-income \ncountries (LMICs), upper-middle-income countries (UMICs) and high-income countries (HICs), according to World Bank definitions for the \nreference year of the data. Losses are calculated based on estimated yield declines under degradation, applied to national crop production for \nthe year 2020. Crop-level harvest area is from FAO & IIASA. 2025. Global Agro-ecological Zoning version 5 (GAEZ v5) Model documentation. \n[Accessed on 27 June 2025]. https://data.apps.fao.org/gaez/?lang=en. Licence: CC-BY-4.0.\nSOURCE: Author’s own elaboration based on Hadi, H. & Wuepper, D. 2025. A global yield gap assessment to link land degradation to \nsocioeconomic risks - Background paper for The State of Food and Agriculture 2025. FAO Agricultural Development Economics Working \nPaper 25-16. Rome, FAO.\nLICs\nLMICs\nUMICs\nHICs\n0\n500\n1 000\n1 500\n2 000\nA) ANNUAL PRODUCTION LOSS (THOUSAND TONNES)\nLICs\nLMICs\nUMICs\nHICs\n0\n0.001\n0.002\n0.003\n0.004\nB) AVERAGE PRODUCTION LOSS (TONNES/HA)\nThe convergence of land degradation, poverty \nand food insecurity creates particularly \nconcerning vulnerability hotspots. Analysis \nreveals that the most severe overlaps \noccur in Southern Asia and sub-Saharan \nAfrica, where degraded lands coincide \nwith high poverty rates and childhood \nstunting. Overall, 47 million children \nunder five years of age suffering \nfrom stunting live in hotspots where \nstunting overlaps with significant yield \nlosses from land degradation. These \nhotspots represent a convergence of \nenvironmental degradation and human \ndeprivation that demands urgent and \ntargeted responses.\nThe path forward requires navigation of \ncomplex trade-offs between agricultural \nintensification and environmental \nsustainability. Historical debates \nbetween land sparing (intensive \nagriculture on smaller areas) and land \nsharing (wildlife-friendly farming over \nlarger areas) have evolved towards \nrecognition that both approaches have \nhttps://doi.org/10.4060/cd7067en-fig09\n| 14 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 14,
+        "page_index": 13,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_14.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 15]\n[SOURCE TYPE: PDF TEXT]\n\nmerit depending on context. Recent \nresearch demonstrates that improved \ncrop technologies actually reduced \nglobal cropland by 16 Mha between \n1961 and 2015 - challenging narratives \nabout the negative environmental \nimpacts of intensification. The most \npromising solutions combine strategies \nthat enhance productivity while \nmaintaining ecological integrity, \nrequiring careful policy design that \naligns economic incentives with \nenvironmental goals.\nBeyond croplands, degradation affects \nall agricultural systems, undermining \nlivestock production in rangelands and - \nthrough forest loss driven by agricultural \nexpansion - disrupting climate patterns and \nbiodiversity. The interconnectedness \nof these systems means degradation \nin one area cascades into other \nareas, creating feedback loops that \namplify impacts. Nearly 90 percent \nof global deforestation stems from \nagriculture, with cropland expansion \nand pasture creation the primary \ndrivers, highlighting the urgent \n FIGURE 11 POVERTY, DEGRADATION-INDUCED YIELD LOSSES AND ALL-CAUSE YIELD GAPS FOR \nSUB-SAHARAN AFRICA AND SOUTHERN ASIA\nNOTE: Refer to the disclaimer on the copyright page for the names and boundaries used in this map. Dotted line represents approximately the \nLine of Control in Jammu and Kashmir agreed upon by India and Pakistan. The final status of Jammu and Kashmir has not yet been agreed upon \nby the parties. Final boundary between the Republic of Sudan and the Republic of South Sudan has not yet been determined.\nSOURCE: Hadi, H. & Wuepper, D. 2025. A global yield gap assessment to link land degradation to socioeconomic risks - Background paper for \nThe State of Food and Agriculture 2025. FAO Agricultural Development Economics Working Paper 25-16. Rome, FAO.\nA) POPULATIONS LIVING BELOW THE MODERATE POVERTY \nLINE AND DEGRADATION-INDUCED YIELD LOSSES\nB) POPULATIONS LIVING BELOW THE MODERATE POVERTY \nLINE AND ALL-CAUSE YIELD GAPS\nYIELD GAP\nPOPULATION\nPOVERTY\nYIELD LOSS\nPOPULATION\nPOVERTY\nTHE STATE OF FOOD AND AGRICULTURE 2025 IN BRIEF \n| 15 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 15,
+        "page_index": 14,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_15.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 16]\n[SOURCE TYPE: PDF TEXT]\n\nSUMMARY\nneed for integrated landscape \nmanagement approaches.\nThe findings underscore that land \ndegradation is not an inevitable \nconsequence of agriculture but rather \nthe result of specific management \nchoices and policy failures. Addressing \nthis requires recognizing the challenges \nfarms face in tackling land degradation \nand food security, and the underlying \ndrivers. Both the incentive and the \nability to invest in reducing, reversing \nand restoring degradation on croplands \n- while improving productivity - \ncan differ significantly depending \non farm size, land conditions and \nsocioeconomic factors. \nFarm size, while not the only factor influencing \nland management and food production, shapes \nall other determinants in important ways. \nLarger farms often have more resources \nto invest in advanced technologies that \n FIGURE 13 DISTRIBUTION OF 571 MILLION FARMS BY REGION, 2025\nNOTES: The bars show each region/country’s share of the world’s farms (based on projections from 131 countries and territories). \nThe numbers in parentheses are the number of countries and territories in each region. For the list of countries and territories covered, \nsee Annex 1 of Lowder et al. 2025.\nSOURCE: Authors’ own elaboration based on Lowder, S., Arslan, A., Cabrera Cevallos, C.E., O’Neill, M. & de la O Campos, A.P. 2025. \nA global update on the number of farms, farm size and farmland distribution - Background paper for The State of Food and Agriculture 2025. \nFAO Agricultural Development Economics Working Paper 25-14. Rome, FAO.\n26.2%\n10.4%\n5.7%\n2.8%\n2.0%\n0.3%\n0.0%\n7.7%\n15.5%\n0%\n5%\n15%\n25%\n10%\n20%\n30%\nOceania (8)\nNorthern America (2)\nNorthern Africa and \nWestern Asia (11)\nLatin America and \nthe Caribbean (25)\nEurope and \nCentral Asia (39)\nSub-Saharan Africa (27)\nEastern and South-eastern \nAsia, excluding China (11)\nChina\nSouthern Asia, \nexcluding India (6)\nIndia\n29.4%\nhttps://doi.org/10.4060/cd7067en-fig13\n| 16 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 16,
+        "page_index": 15,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_16.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 17]\n[SOURCE TYPE: PDF TEXT]\n\noptimize input use and productivity \n- but which can exacerbate land \ndegradation. However, these farms \nmay also have greater incentives to \nmaintain land quality, if it is clearly \nlinked to long-term profitability. \nConversely, smaller farms often contend \nwith more vulnerable land conditions, \nand struggle with limited resources \nand multiple market constraints. \nUnderstanding these dynamics is \nessential for designing effective policies \nthat enable all farmers to contribute to \nboth food security and environmental \nsustainability, ensuring that the land \nthat feeds us today remains productive \nfor generations to come.\nOf the world’s roughly 570 million \nfarms, 85 percent are smaller than \n FIGURE 15 PROPORTION OF HOLDINGS AND AREA OPERATED BY REGION\nNOTES: The figure is based on the latest available census data from 131 countries and territories reported between 2006 and 2023. The \nnumbers in parentheses are the number of countries and territories in each region.\nSOURCE: Authors’ own elaboration based on Lowder, S., Arslan, A., Cabrera Cevallos, C.E., O’Neill, M. & de la O Campos, A.P. 2025. \nA global update on the number of farms, farm size and farmland distribution - Background paper for The State of Food and Agriculture 2025. \nFAO Agricultural Development Economics Working Paper 25-14. Rome, FAO.\n0%\n25%\n100%\n50%\n75%\n0%\n25%\n100%\n50%\n75%\nOceania (8)\nNorthern America (2)\nNorthern Africa and \nWestern Asia (11)\nLatin America and \nthe Caribbean (25)\nEurope and \nCentral Asia (39)\nSub-Saharan Africa (27)\nEastern and \nSouth-eastern Asia (12)\nSouthern Asia (7)\n<1\n1-2\n2-5\n5-10\n10-20\n20-50\n50-100\n100-200\n200-500\n500-1 000\n>1 000\nFarm size category (ha)\nHOLDINGS\nAREA\nhttps://doi.org/10.4060/cd7067en-fig15\nTHE STATE OF FOOD AND AGRICULTURE 2025 IN BRIEF \n| 17 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 17,
+        "page_index": 16,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_17.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 18]\n[SOURCE TYPE: PDF TEXT]\n\nSUMMARY\n2 ha yet cultivate only 9 percent \nof farmland, while the 0.1 percent \nexceeding 1 000 ha command about \nhalf of all agricultural land - a \ndisparity that shapes strategies for \nland degradation control, food security \nand long-term resource governance. \nRegional patterns deepen the contrast: \nLatin America and the Caribbean \nhost just 3 percent of farms because \nholdings are generally large; in Asia \nand Africa, smallholders dominate \nnumerically, but farms of 2 to 50 ha \nwork around half the farmland; and \nin Europe, the Americas and Oceania, \nfarms exceeding 1 000 ha control the \ngreater part of farmland.\nDespite facing persistent constraints \nincluding limited access to land, credit, \ninputs, technology and markets, the world’s \n500 million smallholders make remarkable \ncontributions to global food supply. The \ncrops produced by these farmers \ncontribute approximately 16 percent \nof global dietary energy, 12 percent of \nproteins, and 9 percent of fats derived \nfrom crops. Their contribution is \n FIGURE 18 SHARE OF DIETARY ENERGY, PROTEINS AND FATS SUPPLIED BY CROP PRODUCTION \nBY FARM SIZE\nNOTES: Data cover 77 countries with crop production information from 2006 to 2023. Country level data are available in the Supplementary \ndata at https://doi.org/10.4060/cd7067en-supplementarydata\nSOURCE: Authors’ own elaboration based on Arslan, A., Ranuzzi, E., O’Neill, M., Ricciardi, V., Lowder, S. & Vaz, S. 2025. Revealing \ncomplementarities across farm scales in global food production - Background paper for The State of Food and Agriculture 2025. FAO Agricultural \nDevelopment Economics Working Paper 25-13. Rome, FAO.\n0%\n25%\n100%\n50%\n75%\n<1\n1-2\n2-5\n5-10\n10-20\n20-50\n50-100\n100-200\n200-500\n500-1 000\n>1 000\nFarm size category (ha)\n17\n19\n13\n9\n7\n8\n5\n5\n8\n4\n5\n17\n11\n11\n10\n7\n8\n5\n5\n10\n6\n10\n17\n17\n12\n9\n7\n8\n4\n5\n8\n5\n7\nFats\nProteins\nDietary energy\nhttps://doi.org/10.4060/cd7067en-fig18\n| 18 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 18,
+        "page_index": 17,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_18.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 19]\n[SOURCE TYPE: PDF TEXT]\n\nparticularly significant for certain crop \ntypes: farms smaller than 5 ha produce \nalmost 50 percent of global stimulants, \nspices and aromatic crops, while \ncontributing between 20 and 30 percent \nof cereals, fruits and vegetables. This \nproduction profile reflects not only their \nimportance to local agrifood systems \nand dietary diversity but also their role \nin high-value crops that can enhance \nrural livelihoods.\nThe dominance of large-scale operations in \nglobally traded commodities underscores their \noutsized influence on food availability and \ntheir critical responsibility for sustainable land \nmanagement. Large farms, particularly \nthose exceeding 50 ha, dominate global \nproduction of cereals, pulses, sugars \nand oil crops - commodities that form \nthe backbone of international trade and \nurban food systems. These operations \nproduce more than 55 percent of global \ncrop-derived nutrients, with the largest \ncategory (>1 000 ha) accounting for \nnearly one-sixth of global food energy \nfrom crops. This concentration is \nmost extreme in Northern America, \nwhere these mega-farms produce \nalmost half of the region’s crop-derived \ndietary energy, driven primarily by \nindustrial agriculture in the United \nStates of America. \nFarm size patterns are evolving differently \nacross regions, defying simple narratives \nof consolidation. While average farm \nsizes have increased in Latin \nAmerica, Europe and Central Asia \nover the past two decades, they \nhave decreased in most of Asia and \ncontinue to shrink in sub-Saharan \nAfrica. High-income countries show \nincreasing polarization, with both \nmean and median farm sizes growing \nbut the gap between them widening, \nindicating greater inequality. In \nAfrica, the persistence of very small \nfarms combined with poor soil \nfertility creates a double poverty \ntrap: farmers can neither produce \nenough for household needs nor \ninvest in restoring soil productivity, \nperpetuating cycles of degradation and \nfood insecurity.\nThe intersection of farm size with land \ndegradation reveals complex patterns requiring \nnuanced policy responses. All farm sizes \nface similar levels of accumulated \nsoil organic carbon debt, yet the \nimpacts and response capacities vary \ndramatically. Large farms in intensively \ncultivated regions of Europe and \nNorthern America show the strongest \ncausal relationship between historical \ndegradation and current yield losses; \nthe extent of land degradation is \nmasked by heavy input use that \nmaintains productivity at increasing \neconomic and environmental cost. \nConversely, smallholder-dominated \nregions in sub-Saharan Africa \nexhibit large yield gaps driven more \nby resource constraints than by \ndegradation per se; still, degraded soils \nmay respond poorly to inputs when they \ndo become available.\nClimate change adds another layer of \ncomplexity to these challenges, with \ndifferential impacts across farm scales. \nTHE STATE OF FOOD AND AGRICULTURE 2025 IN BRIEF \n| 19 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 19,
+        "page_index": 18,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_19.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 20]\n[SOURCE TYPE: PDF TEXT]\n\nSUMMARY\nUnder projected warming scenarios, \nsmallholder farms in tropical regions \nwill face disproportionate exposure \nto heat stress, dry spells and extreme \nprecipitation events. Medium-sized \nfarms may experience the highest \nexposure to combined stressors, while \nlarge farms in temperate regions might \nbenefit from reduced frost days. \nMoving forward, policies must navigate the \ntension between supporting smallholder \nlivelihoods and addressing the global \nenvironmental impacts of large-scale \nagriculture. With large farms controlling \nmost agricultural land, they bear \nprimary responsibility for implementing \nsustainable land management at scale. \nYet the sheer number of smallholders \nand their vulnerability to both \ndegradation and climate change demand \ntargeted interventions that enhance \nproductivity without repeating the \nunsustainable intensification pathways \nobserved in high-income countries. \nSuccess requires recognizing farms of \nall sizes as complementary components \nof agrifood systems, each facing \ndistinct challenges and opportunities \nin the quest for land degradation \nneutrality and food security. Only \nthrough differentiated approaches that \naccount for scale-specific constraints \nand potentials can agriculture meet \ngrowing food demands while preserving \nthe land resources upon which future \ngenerations depend.\nAddressing land degradation requires \nrecognizing that it is not an inevitable \nconsequence of agriculture. With thoughtful \nstewardship and regenerative \napproaches, farming can become a force \nfor avoiding, reducing and reversing \ndegradation while maintaining \nproductivity. Tenure security emerges \nas a fundamental enabler of sustainable \nland management.\nSecure land rights reduce uncertainty \nand encourage long-term investments \nin soil conservation and productivity \nimprovements. However, significant \ngender inequalities persist, with women \nin 43 out of 49 countries with available \ndata less likely than men to own or have \nsecure rights to agricultural land. When \nwomen do have secure land rights, \nevidence shows increased investment in \nsoil conservation, greater crop diversity \nand improved household food security, \nhighlighting the critical importance of \naddressing these disparities.\nEnabling environments are the foundation \nof sustainable land management, not \nguarantees. Secure and enforceable \nland tenure, along with transparent \nand well-functioning land markets, \nempower land users to make long-term \ninvestments in land quality, adopt \nsustainable practices, and access credit, \ninsurance, and extension services. \nHowever, enabling environments alone \nare not sufficient. Land degradation \npersists even in contexts with strong \nenabling environments, underscoring \nthat the alignment of private incentives \nwith public benefits is not automatic.\n| 20 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 20,
+        "page_index": 19,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_20.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 21]\n[SOURCE TYPE: PDF TEXT]\n\nA range of policy instruments exist, each \nwith distinct strengths, limitations and \nimplementation requirements. Policies are \ncategorized into three broad types \n- regulatory, incentive-based and \ncross-compliance (or conditionality).\n \nf Regulatory policies are often the \nmost direct means of addressing \nland degradation. These include \nland-use zoning, deforestation bans, \nand soil conservation mandates. \nWhile effective in setting clear \nbehavioural expectations, regulations \ncan be costly to enforce, particularly \nin areas with many smallholders. \nMoreover, if poorly designed, they \nmay create perverse incentives, \nsuch as regulatory avoidance by \nfragmenting landholdings.\n \nf Incentive-based policies - such as \npayments for ecosystem services \n- offer financial or market-based \nrewards for sustainable practices. \nSuch schemes are typically \nvoluntary and flexible, making \nthem attractive to land users. \nHowever, they often entail high \ntransaction and monitoring costs, \nand their effectiveness depends on \nthe level of compensation and the \nease of participation. Larger farms \nmay find it easier to engage with \nincentive-based schemes due \nto economies of scale, while \nsmallholders may require additional \nsupport to overcome administrative \nand financial barriers.\n \nf Cross-compliance policies link \ngovernment payments to adherence \nto environmental standards. \nWidely adopted in high-income \ncountries, conditionality ensures that \npublic funding supports responsible \nland stewardship. Its success \ndepends on the balance between \ncompliance costs and the value of \nfinancial incentives provided, as well \nas the robustness of monitoring and \nenforcement mechanisms.\nSince the twentieth century, countries have \nimplemented an expanding portfolio of policy \napproaches related to agriculture, land use \nand the environment. A notable surge in \npublic policy adoption occurred after \n2000. Regulatory instruments have \nformed the backbone of these efforts, \ntypically preceding the introduction \nof incentive-based approaches and \ncross-compliance policies. Over time, \nthe policy landscape has evolved \nfrom a predominantly regulatory \nfocus to a more diversified mix \nthat increasingly incorporates both \nincentive-based mechanisms and \ncross-compliance schemes.\nThe ongoing United Nations Decade \non Ecosystem Restoration has \nincreased awareness of the public \ngood nature of actions to address land \ndegradation and provided impetus \nto governments around the world \nto pledge sizeable investments to \naccelerate progress towards land \ndegradation neutrality. The growing \ncommitments have contributed to the \ndiversification of policy instruments \nsupporting sustainable land use and \nmanagement. Despite the increasing \nadoption of agri-environmental \nTHE STATE OF FOOD AND AGRICULTURE 2025 IN BRIEF \n| 21 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 21,
+        "page_index": 20,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_21.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 22]\n[SOURCE TYPE: PDF TEXT]\n\nSUMMARY\nTABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT \nLAND MANAGEMENT \nLAND-USE CHANGE\nREGULATORY\nDoes farm size \nmatter?\nRegulation may apply across the board or only to farms \nabove or below a certain threshold. Applying a threshold \nmay affect incentives, leading to regulatory avoidance. \nRegulation (e.g. land-use zoning or deforestation \nbans) tends to be applied across the board, because \nexemption of one farm size category leads to leakage. \nOn small farms, land-use regulations may impose a \nproportionately higher burden.\nManagement \nburden\nBurden falls on landholders to provide proof of \ncompliance with regulations.\nBurden is low because parties can rely on high-\nresolution earth observation and remote sensing data \nto resolve any dispute.\nMonitoring \nrequirements\nField-level checks can be resource intensive. \nMonitoring performance using outcome indicators is \nmore challenging than monitoring the application of \nregulated practices. \nCost of monitoring is low with high-resolution earth \nobservation data.\nFinancing needs\nPublic financing requirements are low and mainly for \nenforcement. Cost of applying regulated practices is \nborne by landholders.\nPublic financing requirements are low and mainly for \nenforcement. Cost of forgone land-use options is \nborne by landholders.\nINCENTIVE-BASED\nDoes farm size \nmatter?\nSmaller farms often have limited capacity to develop \nproposals and do the paperwork associated with \ncontractual arrangements. \nLarge farms are likely to more easily incorporate land-\nuse change for restoration purposes on part of the \nfarm. On smaller farms, land-use change might affect \noverall economic viability depending on the level of \nincentive.\nManagement \nburden\nTransaction costs are typically high, associated with \nagreeing on contracts for specific land management \npractices. Targeting participants based on the \neffectiveness of proposed actions and available budget \nrequires effort on the part of the government. \nAs for land management practices - with the \ndifference that, when the incentive is set-aside land, \nthe contractual arrangement is simpler, because there\nare fewer land management practice options to \nconsider.\nMonitoring \nrequirements\nField-level checks can be resource intensive and \nensuring additionality is not always possible. Monitoring \nperformance using outcome indicators is more \nchallenging than monitoring the application of \nincentivized practices.\nCost of monitoring is low with high-resolution earth \nobservation data.\nFinancing needs\nIncentivizing uptake is costly in terms of public financing. \nIt depends on the degree of financial incentives provided \nand the private benefits of land management practices \nreceived by the landholder. If these are sizeable, cost \nsharing between public financing and the landholder is \nfeasible.\nCompensating land rental value is costly in terms of \npublic financing because it typically involves public \nfunds. Costs are very high in the case of long-term \nland restoration projects - often cofinanced with \ndonors or the private sector.\nCROSS-COMPLIANCE (CONDITIONALITY)\nDoes farm size \nmatter?\nFarm size matters as a function of the overlap of 1) who \nthe regulation applies to, and 2) how payments to \nlandholders are distributed.\nOn small farms, land-use regulations may impose a \nproportionately higher burden; therefore, they would \nneed to receive substantial payments for cross-\ncompliance to be effective.\nManagement \nburden\nRelease of payments is contingent on compliance with \nregulations; therefore, in principle, the additional burden \nfor landholders is zero because this burden is already \nconsidered. Conditionality on compliance may result in \nan administrative burden, requiring systems integration.\nAs for land management practices.\nMonitoring \nrequirements\nMonitoring of regulation- and incentive-based systems \nalready in place might need to be aligned to make cross-\ncompliance effective. Additional monitoring requirements \nare likely to be marginal.\nAs for land management practices.\nFinancing needs\nNeeds are minimal as interventions leverage existing \nprogrammes. \nAs for land management practices.\n| 22 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 22,
+        "page_index": 21,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_22.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 23]\n[SOURCE TYPE: PDF TEXT]\n\nTHE STATE OF FOOD AND AGRICULTURE 2025 IN BRIEF\nFIGURE 24 STRATEGIC RESPONSES ACROSS LAND DEGRADATION STAGES: FROM IMPROVING\nLAND MANAGEMENT TO FULL-SCALE LAND RESTORATION\nImprovement of land management Full land restoration intervention\nHEALTHY LAND EARLY MODERATE SEVERE ABANDONMENT\nDEGRADATION DEGRADATION DEGRADATION\nAVOID\nPrevent degradation by REDUCE\nn s a o r u e d e n n s d g - t h d r u a e a e l i a s n n g s t a c r i i a o b i n n d n l g e g e , i d m r p t e s l l a a s a d i n n n l r i a n i e d v g i n n e t e c h r g m s e r a o e a o n u n n n d g t d . h d su e m a s g n t a r a d a n M i d n a fo a i a g t r t b e i e i g o m l s a e n t t e l e l o a n a n n o t n d n p d a g r g a t a o r n h c i i d c n r t o u i g f c u l o e t g r u s h e r . s a t l ac re o t W i h f v a e e h b c l e y i o r l s i e s t u y a f R s p e t t e p a E e o s d m V i r e b t E g i f l n e R u r g a , n S d r c t e E h e t s i d e o t o n r la e r s e n c a d o o n v r b d e y r y\nproductive potential.\nSOURCE: Authors’ own elaboration based on Figure 7 in Orr, B.J., Cowie, A.L., Castillo Sanchez, M.V., Chasek, P., Crossman, N.D., Erlewein, A.,\nLouwagie, G. et al. 2017. Scientific Conceptual Framework for Land Degradation Neutrality. A Report of the Science-Policy Interface. Bonn, Germany,\nUNCCD. https://www.unccd.int/resources/reports/scientific-conceptual-framework-land-degradation-neutrality-report-science-policy\npolicies globally, their distribution The “avoid > reduce > reverse”\nremains highly uneven across hierarchy promoted by the UNCCD as\nregions. A significant concentration is a strategic framework for intervention\nobserved in high-income countries. In is a useful way of approaching the\ncontrast, low-income countries have challenges of land degradation. The\nimplemented fewer agri-environmental main premise is to pre-emptively avoid\nmeasures, highlighting a disparity in degradation on healthy, productive\npriorities and resources that could be lands, reduce degradation, halting its\nallocated to incentive-based schemes. progression through improved land\nmanagement practices, and finally,\nGiven resource constraints, matching reverse degradation on severely\ninterventions to land condition and farm degraded land, which often requires\nstructure is key. Land degradation is not transformative measures such as change\nuniform. Even within a single farm, in land use, ecological restoration, and\nland parcels may vary in condition, long-term investment.\nrequiring differentiated responses.\n| 23 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 23,
+        "page_index": 22,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_23.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 24]\n[SOURCE TYPE: PDF TEXT]\n\nSUMMARY\nThe choice of intervention must reflect \nboth the severity of degradation and \nthe potential for recovery. For example, \nlands operating near their biophysical \nyield potential may respond well to \nincremental improvements, while \nseverely degraded or abandoned lands \nmay require complete shifts in land use.\nIn terms of impacts on land degradation, \nland-use regulations consistently emerge \nas effective instruments for improving \nland conditions. Agri-environmental \npayments also show positive impacts, \nthough with greater variability. \nThey are particularly effective in \nforest conservation and contribute to \nimproved cropland conditions globally. \nOverall, approaches that combine \nregulatory and incentive-based \ninstruments offer strong potential \nto improve land conditions. Their \neffectiveness depends on careful \ntailoring to land cover types and local \ncontexts. In croplands, for example, \nregulations can be complemented by \npayments supporting biodiversity in \nnon-productive landscape features \nsuch as hedgerows. Ultimately, \na context-specific approach that \nstrategically combines policy \ninstruments while considering \neconomic and institutional \ncapabilities is crucial for achieving \nmeaningful improvements in land \nconditions worldwide.\nThe way forward. The evidence presented in \nthis report underscores the urgency of \nreversing land degradation to safeguard \nfood security, sustain livelihoods and \npreserve the ecological functions that \nunderpin agrifood systems. Yet, the path \nforward must be as diverse and dynamic \nas the landscapes and land users it \nseeks to support.\nAlign global and local action. Land \ndegradation must be understood within \nthe broader context of land-use decisions \n- shaped by local choices and global \ndrivers such as trade, climate change \nand demographic transitions. Farmers, \nas private actors, make decisions \nprimarily based on productivity and \nprofitability. This means that efforts to \npromote sustainable land management \nmust consider the economic realities \nthey face - including the time, labour \nand financial costs of implementation - \nand ensure that these do not outweigh \nthe expected benefits. Land degradation \nintersects with climate change and \nbiodiversity loss, making it central to \nthe Rio Conventions (UNCCD, United \nNations Framework Convention \non Climate Change, Convention on \nBiological Diversity). Translating global \ncommitments into local action requires \ninstitutional coherence, political will, \nand long-term financing.\nRecognize the diversity of land users. The \ndiversity of farm sizes and structures \nmust be embraced as a central axis of \npolicy design. Smallholder farmers, \nwho often operate under resource \nconstraints and on marginal lands, \nneed targeted support to sustainably \nintensify production. Closing yield \ngaps without further degrading \nland calls for access to appropriate \n| 24 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 24,
+        "page_index": 23,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_24.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 25]\n[SOURCE TYPE: PDF TEXT]\n\ntechnologies and extension services, \nsecure land tenure, and inclusive \nfinancing mechanisms. In places where \naccumulated land degradation is not \nthe primary constraint, strengthening \nenabling environments will be key to \nbreaking path dependencies that have \nled to unsustainable intensification. \nAt the other end of the spectrum, \nlarge-scale commercial farms - \nthough fewer in number - manage \nmost of the world’s agricultural land \nand have a disproportionate impact \non land systems. These farms must \nplay a leading role in achieving land \ndegradation neutrality by complying \nwith environmental regulations, \nadopting sustainable land management \npractices, and participating in \nincentive schemes that reward \necosystem stewardship.\nDifferentiate restoration strategies. \nSeverely degraded areas may require \ntransformative interventions, including \nland-use change or long-term fallowing, \nwhile land in agricultural production \ncan benefit from improved management \npractices that enhance productivity \nand resilience. This calls for a nuanced \npolicy mix that combines regulatory \nframeworks with incentive-based \nmechanisms, underpinned by robust \nmonitoring systems and adaptive \ngovernance. Tailoring interventions \nto the specific needs, capacities and \nresponsibilities of different land \nusers is essential for equitable and \neffective progress.\nStrengthening land governance is critical. \nWell-defined tenure rights - both \nindividual and collective - are \nnon-negotiable for sustainable land \nmanagement and livelihoods. Inclusive \ngovernance structures are also \nessential to manage trade-offs, which \nare often unavoidable in land systems. \nWin-win scenarios are rare; thus, \nenabling environments must support \ntransparent decision-making and \nequitable outcomes.\nScale what works. Encouragingly, \nsustainable land management and \nland restoration efforts are already \nunderway in many parts of the world, \ndemonstrating that solutions exist \nand can be scaled. These efforts \nshow that reversing degradation is \npossible when the right enabling \nconditions are in place. However, land \ndegradation must still be addressed \nwithin the broader context of global \nsustainability goals. While land is \nfoundational to national food security \nand development strategies, it is also \ncentral to the global challenges of \nclimate change and biodiversity loss. \nGovernments and international bodies \nare increasingly aligning efforts; \nhowever, progress is hindered by weak \nimplementation, limited coordination \nand insecure land tenure. \nStrengthening institutional coherence \nand political will is essential to \ntranslate global commitments \ninto local action.\nTHE STATE OF FOOD AND AGRICULTURE 2025 IN BRIEF \n| 25 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 25,
+        "page_index": 24,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_25.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 26]\n[SOURCE TYPE: PDF TEXT]\n\nSUMMARY\nInvesting in people, policies and practices \nto respond to land degradation challenges. \nThe costs of inaction are rising, but \nso too is our capacity to respond. \nLand degradation is not an inevitable \nconsequence of agriculture. It is \nthe result of specific land use and \nmanagement choices, policy failures \nand misaligned incentives. But it is \nalso reversible. With the right mix of \npolicies, institutions and investments, \nwe can transform agriculture into \na force for regeneration - restoring \ndegraded lands, enhancing food \nsecurity and nutrition, and securing \nthe ecological foundations of our \nagrifood systems. By investing in \npeople, policies and practices that value \nland, not only as a productive asset \nbut as a cornerstone of human and \nplanetary well-being, we can chart a \npath towards a more sustainable and \nequitable future. n\n| 26 |",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 26,
+        "page_index": 25,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_26.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 28]\n[SOURCE TYPE: PDF TEXT]\n\nThe State of Food and \nAgriculture 2025 (full text)\nFOOD AND \nAGRICULTURE\nTHE STATE OF \nADDRESSING LAND DEGRADATION\nACROSS LANDHOLDING SCALES\nLand is the foundational resource of agrifood systems, playing a crucial role in securing global \nfood supply and achieving the Sustainable Development Goals. Yet, increasing pressures are \ndegrading this finite and essential resource, undermining its capacity to meet growing - and \noften competing - demands for more efficient, productive and sustainable agriculture.\nThe 2025 edition of The State of Food and Agriculture explores the theme “Addressing land \ndegradation across landholding scales”. It examines the implications of human-induced land \ndegradation for agricultural production, producers of all scales and vulnerable populations. \nThe report presents new findings on how cropland degradation contributes to the yield gap \nworldwide against a backdrop of broader degradation processes on other land cover types \nand even land abandonment. Drawing on the latest data on global farm distribution, farm sizes \nand crop production, the report highlights how the scale at which land is managed shapes \nboth the constraints and the opportunities for adopting sustainable land use and management \npractices. It also underscores the importance of policymaking that encompasses regulatory and \nincentive-based measures, tailored to the varied conditions and scales of land use, to avoid, \nreduce and reverse land degradation.\n2025",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 28,
+        "page_index": 27,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_28.png",
+        "source_kind": "text",
+        "chunk_type": "page_text"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 22]\n[SOURCE TYPE: STRUCTURED TABLE]\n[TABLE: 3]\n[TABLE CAPTION: TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT]\n\n Policy instrument Question / aspect Land management Land-use change\n REGULATORY Does farm size matter? Regulation may apply across the board or only to farms above or below a certain threshold. Applying a threshold may affect incentives, leading to regulatory avoidance. Regulation (e.g. land-use zoning or deforestation bans) tends to be applied across the board, because exemption of one farm size category leads to leakage. On small farms, land-use regulations may impose a proportionately higher burden.\n REGULATORY Management burden Burden falls on landholders to provide proof of compliance with regulations. to Burden is low because parties can rely on high-resolution earth observation and remote sensing data resolve any dispute.\n REGULATORY Monitoring requirements Field-level checks can be resource intensive. Monitoring performance using outcome indicators is more challenging than monitoring the application of regulated practices. Cost of monitoring is low with high-resolution earth observation data.\n REGULATORY Financing needs regulated practices. Public financing requirements are low and mainly for enforcement. Cost of applying regulated practices is borne by landholders. Public financing requirements are low and mainly for enforcement. Cost of forgone land-use options is borne by landholders.\n INCENTIVE-BASED Does farm size matter? Smaller farms often have limited capacity to develop proposals and do the paperwork associated with contractual arrangements. Large farms are likely to more easily incorporate land-use change for restoration purposes on part of the farm. On smaller farms, land-use change might affect overall economic viability depending on the level of incentive.\n INCENTIVE-BASED Management burden Transaction costs are typically high, associated with As agreeing on contracts for specific land management practices. Targeting participants based on the effectiveness of proposed actions and available budget requires effort on the part of the government. for land management practices - with the difference that, when the incentive is set-aside land, the contractual arrangement is simpler, because there are fewer land management practice options to consider.\n INCENTIVE-BASED Monitoring requirements Field-level checks can be resource intensive and ensuring additionality is not always possible. Monitoring performance using outcome indicators is more challenging than monitoring the application of incentivized practices. Cost of monitoring is low with high-resolution earth observation data.\n INCENTIVE-BASED Financing needs incentivized practices. Incentivizing uptake is costly in terms of public financing. It depends on the degree of financial incentives provided and the private benefits of land management practices received by the landholder. If these are sizeable, cost sharing between public financing and the landholder is feasible. Compensating land rental value is costly in terms of public financing because it typically involves public funds. Costs are very high in the case of long-term land restoration projects - often co-financed with donors or the private sector.\nCROSS-COMPLIANCE (CONDITIONALITY) Does farm size matter? Farm size matters as a function of the overlap of 1) who the regulation applies to, and 2) how payments to landholders are distributed. On small farms, land-use regulations may impose a proportionately higher burden; therefore, they would need to receive substantial payments for cross- compliance to be effective.\nCROSS-COMPLIANCE (CONDITIONALITY) Management burden Release of payments is contingent on compliance with As regulations; therefore, in principle, the additional burden for landholders is zero because this burden is already considered. Conditionality on compliance may result in an administrative burden, requiring systems integration. for land management practices.\nCROSS-COMPLIANCE (CONDITIONALITY) Monitoring requirements Monitoring of regulation- and incentive-based systems As already in place might need to be aligned to make cross- compliance effective. Additional monitoring requirements are likely to be marginal. for land management practices.\nCROSS-COMPLIANCE (CONDITIONALITY) Financing needs are likely to be marginal. Needs are minimal as interventions leverage existing As programmes. for land management practices.",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 22,
+        "page_index": 21,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_22.png",
+        "source_kind": "table",
+        "table_number": "3",
+        "caption": "TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT",
+        "chunk_type": "full_table"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 22]\n[SOURCE TYPE: TABLE ROW]\n[TABLE: 3]\n[TABLE CAPTION: TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT]\n[ROW: 1]\n\nPolicy instrument: REGULATORY\nQuestion / aspect: Does farm size matter?\nLand management: Regulation may apply across the board or only to farms above or below a certain threshold. Applying a threshold may affect incentives, leading to regulatory avoidance.\nLand-use change: Regulation (e.g. land-use zoning or deforestation bans) tends to be applied across the board, because exemption of one farm size category leads to leakage. On small farms, land-use regulations may impose a proportionately higher burden.",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 22,
+        "page_index": 21,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_22.png",
+        "source_kind": "table_row",
+        "table_number": "3",
+        "caption": "TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT",
+        "row_index": 1,
+        "chunk_type": "table_row"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 22]\n[SOURCE TYPE: TABLE ROW]\n[TABLE: 3]\n[TABLE CAPTION: TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT]\n[ROW: 2]\n\nPolicy instrument: REGULATORY\nQuestion / aspect: Management burden\nLand management: Burden falls on landholders to provide proof of compliance with regulations. to\nLand-use change: Burden is low because parties can rely on high-resolution earth observation and remote sensing data resolve any dispute.",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 22,
+        "page_index": 21,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_22.png",
+        "source_kind": "table_row",
+        "table_number": "3",
+        "caption": "TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT",
+        "row_index": 2,
+        "chunk_type": "table_row"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 22]\n[SOURCE TYPE: TABLE ROW]\n[TABLE: 3]\n[TABLE CAPTION: TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT]\n[ROW: 3]\n\nPolicy instrument: REGULATORY\nQuestion / aspect: Monitoring requirements\nLand management: Field-level checks can be resource intensive. Monitoring performance using outcome indicators is more challenging than monitoring the application of regulated practices.\nLand-use change: Cost of monitoring is low with high-resolution earth observation data.",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 22,
+        "page_index": 21,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_22.png",
+        "source_kind": "table_row",
+        "table_number": "3",
+        "caption": "TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT",
+        "row_index": 3,
+        "chunk_type": "table_row"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 22]\n[SOURCE TYPE: TABLE ROW]\n[TABLE: 3]\n[TABLE CAPTION: TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT]\n[ROW: 4]\n\nPolicy instrument: REGULATORY\nQuestion / aspect: Financing needs\nLand management: regulated practices. Public financing requirements are low and mainly for enforcement. Cost of applying regulated practices is borne by landholders.\nLand-use change: Public financing requirements are low and mainly for enforcement. Cost of forgone land-use options is borne by landholders.",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 22,
+        "page_index": 21,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_22.png",
+        "source_kind": "table_row",
+        "table_number": "3",
+        "caption": "TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT",
+        "row_index": 4,
+        "chunk_type": "table_row"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 22]\n[SOURCE TYPE: TABLE ROW]\n[TABLE: 3]\n[TABLE CAPTION: TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT]\n[ROW: 5]\n\nPolicy instrument: INCENTIVE-BASED\nQuestion / aspect: Does farm size matter?\nLand management: Smaller farms often have limited capacity to develop proposals and do the paperwork associated with contractual arrangements.\nLand-use change: Large farms are likely to more easily incorporate land-use change for restoration purposes on part of the farm. On smaller farms, land-use change might affect overall economic viability depending on the level of incentive.",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 22,
+        "page_index": 21,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_22.png",
+        "source_kind": "table_row",
+        "table_number": "3",
+        "caption": "TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT",
+        "row_index": 5,
+        "chunk_type": "table_row"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 22]\n[SOURCE TYPE: TABLE ROW]\n[TABLE: 3]\n[TABLE CAPTION: TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT]\n[ROW: 6]\n\nPolicy instrument: INCENTIVE-BASED\nQuestion / aspect: Management burden\nLand management: Transaction costs are typically high, associated with As agreeing on contracts for specific land management practices. Targeting participants based on the effectiveness of proposed actions and available budget requires effort on the part of the government.\nLand-use change: for land management practices - with the difference that, when the incentive is set-aside land, the contractual arrangement is simpler, because there are fewer land management practice options to consider.",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 22,
+        "page_index": 21,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_22.png",
+        "source_kind": "table_row",
+        "table_number": "3",
+        "caption": "TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT",
+        "row_index": 6,
+        "chunk_type": "table_row"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 22]\n[SOURCE TYPE: TABLE ROW]\n[TABLE: 3]\n[TABLE CAPTION: TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT]\n[ROW: 7]\n\nPolicy instrument: INCENTIVE-BASED\nQuestion / aspect: Monitoring requirements\nLand management: Field-level checks can be resource intensive and ensuring additionality is not always possible. Monitoring performance using outcome indicators is more challenging than monitoring the application of incentivized practices.\nLand-use change: Cost of monitoring is low with high-resolution earth observation data.",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 22,
+        "page_index": 21,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_22.png",
+        "source_kind": "table_row",
+        "table_number": "3",
+        "caption": "TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT",
+        "row_index": 7,
+        "chunk_type": "table_row"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 22]\n[SOURCE TYPE: TABLE ROW]\n[TABLE: 3]\n[TABLE CAPTION: TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT]\n[ROW: 8]\n\nPolicy instrument: INCENTIVE-BASED\nQuestion / aspect: Financing needs\nLand management: incentivized practices. Incentivizing uptake is costly in terms of public financing. It depends on the degree of financial incentives provided and the private benefits of land management practices received by the landholder. If these are sizeable, cost sharing between public financing and the landholder is feasible.\nLand-use change: Compensating land rental value is costly in terms of public financing because it typically involves public funds. Costs are very high in the case of long-term land restoration projects - often co-financed with donors or the private sector.",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 22,
+        "page_index": 21,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_22.png",
+        "source_kind": "table_row",
+        "table_number": "3",
+        "caption": "TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT",
+        "row_index": 8,
+        "chunk_type": "table_row"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 22]\n[SOURCE TYPE: TABLE ROW]\n[TABLE: 3]\n[TABLE CAPTION: TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT]\n[ROW: 9]\n\nPolicy instrument: CROSS-COMPLIANCE (CONDITIONALITY)\nQuestion / aspect: Does farm size matter?\nLand management: Farm size matters as a function of the overlap of 1) who the regulation applies to, and 2) how payments to landholders are distributed.\nLand-use change: On small farms, land-use regulations may impose a proportionately higher burden; therefore, they would need to receive substantial payments for cross- compliance to be effective.",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 22,
+        "page_index": 21,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_22.png",
+        "source_kind": "table_row",
+        "table_number": "3",
+        "caption": "TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT",
+        "row_index": 9,
+        "chunk_type": "table_row"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 22]\n[SOURCE TYPE: TABLE ROW]\n[TABLE: 3]\n[TABLE CAPTION: TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT]\n[ROW: 10]\n\nPolicy instrument: CROSS-COMPLIANCE (CONDITIONALITY)\nQuestion / aspect: Management burden\nLand management: Release of payments is contingent on compliance with As regulations; therefore, in principle, the additional burden for landholders is zero because this burden is already considered. Conditionality on compliance may result in an administrative burden, requiring systems integration.\nLand-use change: for land management practices.",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 22,
+        "page_index": 21,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_22.png",
+        "source_kind": "table_row",
+        "table_number": "3",
+        "caption": "TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT",
+        "row_index": 10,
+        "chunk_type": "table_row"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 22]\n[SOURCE TYPE: TABLE ROW]\n[TABLE: 3]\n[TABLE CAPTION: TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT]\n[ROW: 11]\n\nPolicy instrument: CROSS-COMPLIANCE (CONDITIONALITY)\nQuestion / aspect: Monitoring requirements\nLand management: Monitoring of regulation- and incentive-based systems As already in place might need to be aligned to make cross- compliance effective. Additional monitoring requirements are likely to be marginal.\nLand-use change: for land management practices.",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 22,
+        "page_index": 21,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_22.png",
+        "source_kind": "table_row",
+        "table_number": "3",
+        "caption": "TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT",
+        "row_index": 11,
+        "chunk_type": "table_row"
+      }
+    },
+    {
+      "page_content": "[DOCUMENT: 2025_pdf.pdf]\n[PAGE: 22]\n[SOURCE TYPE: TABLE ROW]\n[TABLE: 3]\n[TABLE CAPTION: TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT]\n[ROW: 12]\n\nPolicy instrument: CROSS-COMPLIANCE (CONDITIONALITY)\nQuestion / aspect: Financing needs\nLand management: are likely to be marginal. Needs are minimal as interventions leverage existing As programmes.\nLand-use change: for land management practices.",
+      "metadata": {
+        "doc_id": "9f0b6904723a9850",
+        "file_name": "2025_pdf.pdf",
+        "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+        "page": 22,
+        "page_index": 21,
+        "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_22.png",
+        "source_kind": "table_row",
+        "table_number": "3",
+        "caption": "TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT",
+        "row_index": 12,
+        "chunk_type": "table_row"
+      }
+    }
+  ],
+  "extraction_report": {
+    "file_name": "2025_pdf.pdf",
+    "doc_id": "9f0b6904723a9850",
+    "mode": "text_table_only_no_ocr",
+    "pages": 28,
+    "structured_tables": [
+      {
+        "table_number": "3",
+        "page": 22,
+        "caption": "TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT",
+        "method": "custom_2025_table3_section_row_column",
+        "rows": 12,
+        "columns": 4
+      }
+    ],
+    "ocr_future_items": [
+      {
+        "item_type": "page",
+        "page": 27,
+        "reason": "Page has very little extractable text. May require OCR later."
+      },
+      {
+        "item_type": "figure",
+        "number": "3",
+        "page": 10,
+        "caption": "FIGURE 3 SPECTRUM OF LAND DEGRADATION AND RESTORATION PATHWAYS",
+        "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+      },
+      {
+        "item_type": "figure",
+        "number": "5",
+        "page": 11,
+        "caption": "FIGURE 5 DRIVERS OF AGRICULTURAL LAND USE AND MANAGEMENT",
+        "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+      },
+      {
+        "item_type": "figure",
+        "number": "10",
+        "page": 13,
+        "caption": "FIGURE 10 POPULATION HOTSPOTS EXPOSED TO DEGRADATION-INDUCED YIELD LOSSES AND",
+        "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+      },
+      {
+        "item_type": "figure",
+        "number": "9",
+        "page": 14,
+        "caption": "FIGURE 9 ESTIMATED ANNUAL AND AVERAGE PRODUCTION LOSSES DUE TO LAND DEGRADATION",
+        "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+      },
+      {
+        "item_type": "figure",
+        "number": "11",
+        "page": 15,
+        "caption": "FIGURE 11 POVERTY, DEGRADATION-INDUCED YIELD LOSSES AND ALL-CAUSE YIELD GAPS FOR",
+        "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+      },
+      {
+        "item_type": "figure",
+        "number": "13",
+        "page": 16,
+        "caption": "FIGURE 13 DISTRIBUTION OF 571 MILLION FARMS BY REGION, 2025",
+        "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+      },
+      {
+        "item_type": "figure",
+        "number": "15",
+        "page": 17,
+        "caption": "FIGURE 15 PROPORTION OF HOLDINGS AND AREA OPERATED BY REGION",
+        "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+      },
+      {
+        "item_type": "figure",
+        "number": "18",
+        "page": 18,
+        "caption": "FIGURE 18 SHARE OF DIETARY ENERGY, PROTEINS AND FATS SUPPLIED BY CROP PRODUCTION",
+        "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+      },
+      {
+        "item_type": "figure",
+        "number": "24",
+        "page": 23,
+        "caption": "FIGURE 24 STRATEGIC RESPONSES ACROSS LAND DEGRADATION STAGES: FROM IMPROVING",
+        "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+      }
+    ]
+  }
+}

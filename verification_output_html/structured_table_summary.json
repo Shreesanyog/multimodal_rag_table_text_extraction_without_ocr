@@ -1,0 +1,46 @@
+{
+  "extracted": [
+    {
+      "file_name": "2021_pdf.pdf",
+      "table_number": "2",
+      "page_number": 18,
+      "caption": "TABLE 2 INDICATORS OF UNAFFORDABILITY OF HEALTHY DIETS",
+      "method": "custom_2021_table2_word_position",
+      "rows": 15,
+      "columns": 5,
+      "html_file": "2021_pdf_TABLE_2.html",
+      "excel_file": "2021_pdf_TABLE_2.xlsx"
+    },
+    {
+      "file_name": "2021_pdf.pdf",
+      "table_number": "5",
+      "page_number": 25,
+      "caption": "TABLE 5 ENTRY POINTS TO MANAGE AGRIFOOD SYSTEMS’ RISK AND UNCERTAINTY",
+      "method": "custom_2021_table5_section_band",
+      "rows": 4,
+      "columns": 4,
+      "html_file": "2021_pdf_TABLE_5.html",
+      "excel_file": "2021_pdf_TABLE_5.xlsx"
+    },
+    {
+      "file_name": "2025_pdf.pdf",
+      "table_number": "3",
+      "page_number": 22,
+      "caption": "TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT",
+      "method": "custom_2025_table3_section_row_column",
+      "rows": 12,
+      "columns": 4,
+      "html_file": "2025_pdf_TABLE_3.html",
+      "excel_file": "2025_pdf_TABLE_3.xlsx"
+    }
+  ],
+  "skipped": [
+    {
+      "file_name": "2021_pdf.pdf",
+      "table_number": "1",
+      "page_number": 17,
+      "caption": "TABLE 1 INDICATORS OF RESILIENCE AND VULNERABILITY OF FOOD TRANSPORT NETWORKS",
+      "reason": "Color/legend-style table. Normal text extraction can miss visual category cells."
+    }
+  ]
+}

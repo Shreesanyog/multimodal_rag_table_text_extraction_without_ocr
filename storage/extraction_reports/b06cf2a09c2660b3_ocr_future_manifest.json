@@ -1,0 +1,84 @@
+{
+  "file_name": "2023_pdf.pdf",
+  "doc_id": "b06cf2a09c2660b3",
+  "mode": "text_table_only_no_ocr",
+  "pages": 28,
+  "structured_tables": [],
+  "ocr_future_items": [
+    {
+      "item_type": "page",
+      "page": 27,
+      "reason": "Page has very little extractable text. May require OCR later."
+    },
+    {
+      "item_type": "figure",
+      "number": "1",
+      "page": 11,
+      "caption": "FIGURE 1 HOW ASSESSMENTS OF CAPITAL FLOWS CAN INFORM LEVERS FOR AGRIFOOD",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "3",
+      "page": 13,
+      "caption": "FIGURE 3 TWO-PHASE AGRIFOOD SYSTEMS ASSESSMENT PROCESS",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "5",
+      "page": 16,
+      "caption": "FIGURE 5 SCOPE OF THE ANALYSIS: AGRIFOOD SYSTEMS STAGES AND PATHWAYS THROUGH",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "6",
+      "page": 17,
+      "caption": "FIGURE 6 QUANTIFIED HIDDEN COSTS OF",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "8",
+      "page": 18,
+      "caption": "FIGURE 8 SHARE OF QUANTIFIED HIDDEN COSTS OF AGRIFOOD SYSTEMS TO GDP BY INCOME",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "7",
+      "page": 18,
+      "caption": "FIGURE 7 TOTAL QUANTIFIED HIDDEN COSTS OF AGRIFOOD SYSTEMS BY INCOME GROUP",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "9",
+      "page": 19,
+      "caption": "FIGURE 9 QUANTIFIED HIDDEN COSTS OF AGRIFOOD SYSTEMS BY SUBCATEGORY FOR SELECTED",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "11",
+      "page": 21,
+      "caption": "FIGURE 11 A FOUR-STEP PROCESS TO INITIATE AND SCALE UP TARGETED AGRIFOOD",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "13",
+      "page": 22,
+      "caption": "FIGURE 13 THE ROLE OF SCENARIOS IN INFORMING POLICYMAKING",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "15",
+      "page": 24,
+      "caption": "FIGURE 15 LEVERS FOR AGRIFOOD SYSTEMS TRANSFORMATION",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    }
+  ]
+}

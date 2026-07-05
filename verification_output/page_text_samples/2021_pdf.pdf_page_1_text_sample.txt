@@ -1,0 +1,26 @@
+FILE: 2021_pdf.pdf
+PAGE: 1
+METADATA:
+{
+  "doc_id": "bd764dd3cc3d3a04",
+  "file_name": "2021_pdf.pdf",
+  "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2021_pdf.pdf",
+  "page": 1,
+  "page_index": 0,
+  "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\bd764dd3cc3d3a04\\page_1.png",
+  "source_kind": "text",
+  "chunk_type": "page_text"
+}
+
+CONTENT:
+[DOCUMENT: 2021_pdf.pdf]
+[PAGE: 1]
+[SOURCE TYPE: PDF TEXT]
+
+IN BRIEF 
+FOOD AND 
+AGRICULTURE
+THE STATE OF 
+MAKING AGRIFOOD SYSTEMS
+MORE RESILIENT TO SHOCKS
+AND STRESSES

@@ -1,0 +1,53 @@
+FILE: 2021_pdf.pdf
+PAGE: 5
+METADATA:
+{
+  "doc_id": "bd764dd3cc3d3a04",
+  "file_name": "2021_pdf.pdf",
+  "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2021_pdf.pdf",
+  "page": 5,
+  "page_index": 4,
+  "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\bd764dd3cc3d3a04\\page_5.png",
+  "source_kind": "text",
+  "chunk_type": "page_text"
+}
+
+CONTENT:
+[DOCUMENT: 2021_pdf.pdf]
+[PAGE: 5]
+[SOURCE TYPE: PDF TEXT]
+
+FOREWORD
+T
+he novel coronavirus disease (COVID-19) pandemic has had profound impacts on 
+all our lives and we continue to struggle with it. Border closures and curfews to 
+contain the spread of the SARS-CoV-2 virus stopped international travel, shut 
+down countless businesses and left millions of people unemployed. Restrictions on the 
+movement of people and goods, particularly in the initial stages of the pandemic, 
+impeded the flow of inputs to farmers and of their produce to markets. Where 
+harvesting and transport were blocked, huge quantities of fresh fruits and vegetables 
+were left to decay in farmers’ fields. 
+Restrictions have harmed not only agrifood trade, agrifood supply chains and agrifood 
+markets, but also people’s lives, livelihoods and nutrition. After initial disruptions and 
+uncertainty, many supply chains showed a remarkable degree of resilience in absorbing 
+and adapting to the shock caused by the pandemic; however, lack of access to adequate 
+food for millions of people emerged as a huge and persistent problem. Many rural 
+people were unable to travel for seasonal work - an important source of income in poor 
+communities. Immobilized by lockdowns, low-income urban households saw their 
+incomes and spending on food fall sharply. 
+Even before the COVID-19 pandemic, the world was not on track to meet the shared 
+commitment to end global hunger and malnutrition in all its forms by 2030, but the 
+pandemic has sent us even further off track. This year’s State of Food Security and 
+Nutrition in the World estimates that between 720 and 811 million people were affected 
+by hunger in 2020, up to 161 million more than in 2019, with the increase largely 
+propelled by the COVID-19 crisis. Tragically, women and children have often borne the 
+brunt of the crisis. According to the Sustainable Development Goals Report 2020, the 
+disruption of health services and access to adequate food has added to the toll of 
+under-five and maternal deaths. The United Nations’ Policy Brief: The Impact of 
+COVID-19 on Food Security and Nutrition suggests that 370 million children have been 
+denied school meals owing to school closures. There is no doubt that the impact of the 
+pandemic on food security and nutrition will be felt for many years.
+Agrifood production and supply chains have historically been vulnerable to shocks - 
+from droughts and floods to armed conflict and food price hikes - and are under 
+growing pressure from longer-term stresses, including the climate crisis and 
+| 5 |

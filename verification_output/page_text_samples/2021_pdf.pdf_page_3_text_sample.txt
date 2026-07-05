@@ -1,0 +1,115 @@
+FILE: 2021_pdf.pdf
+PAGE: 3
+METADATA:
+{
+  "doc_id": "bd764dd3cc3d3a04",
+  "file_name": "2021_pdf.pdf",
+  "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2021_pdf.pdf",
+  "page": 3,
+  "page_index": 2,
+  "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\bd764dd3cc3d3a04\\page_3.png",
+  "source_kind": "text",
+  "chunk_type": "page_text"
+}
+
+CONTENT:
+[DOCUMENT: 2021_pdf.pdf]
+[PAGE: 3]
+[SOURCE TYPE: PDF TEXT]
+
+| 3 |
+CONTENTS
+CORE MESSAGES
+4
+FOREWORD
+5
+SUMMARY
+9
+Resilient agrifood systems are a 
+strategic part of the world’s response to 
+ongoing and future challenges
+9
+Truly resilient agrifood systems address all 
+dimensions of food security
+9
+ FIGURE FROM BOX 1 A conceptual framework for 
+agrifood systems
+10
+Shocks have immediate impact, while 
+stresses gradually undermine systems’ 
+coping capacity 
+10
+The ability to withstand shocks and 
+stresses and bounce back is key in an 
+uncertain environment
+11
+ FIGURE 1 Agrifood systems’ resilience and the six 
+dimensions of food security
+11
+ FIGURE 2 Conceptual framework for agrifood 
+systems’ resilience analysis
+12
+Understanding systems’ functions 
+and vulnerabilities
+12
+Diversity in production and trade partners 
+can help minimize risk
+12
+Ensuring physical and economic access 
+to food is a key aspect of agrifood 
+systems’ resilience
+13
+ FIGURE 3 PPFI for protein, 2016-2018
+14
+ FIGURE 4 DSFI for kilocalories, 2016-2018
+15
+Diverse, redundant, well-connected 
+food supply chains underpin resilience
+16
+ TABLE 1 Indicators of resilience and vulnerability of 
+food transport networks for selected countries
+17
+ TABLE 2 Indicators of unaffordability of healthy diets
+18
+Resilience-building strategies may involve 
+trade-offs with efficiency and 
+inclusiveness
+18
+ FIGURE 6 Placement of selected countries based 
+on the level of economic access to a healthy diet 
+and DSFI for tonnes of fruits and vegetables, 
+2016-2019
+19
+ FIGURE 8 A simplified illustration of three types of 
+food supply chains regarding vulnerability to shocks 
+and stresses and their resilience capacities
+20
+Robust rural livelihoods strengthen 
+entire systems 
+21
+Helping rural households cope better with 
+shocks and stresses
+22
+Small-scale producers need organization, 
+sustainable practices and social 
+protection 
+22
+ FIGURE 9 RIMA resilience pillars by country profile
+23
+Guiding principle for policymakers: 
+prepare for disruption
+24
+Diversity in food sources and output 
+markets creates multiple pathways for 
+absorbing shocks 
+24
+The heterogeneity of farms and 
+businesses must be recognized 
+24
+ TABLE 5 Entry points to manage agrifood systems’ 
+risk and uncertainty
+25
+Risk management, crop insurance and 
+social protection enhance household 
+resilience
+26

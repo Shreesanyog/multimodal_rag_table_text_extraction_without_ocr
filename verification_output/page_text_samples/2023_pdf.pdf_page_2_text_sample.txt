@@ -1,0 +1,27 @@
+FILE: 2023_pdf.pdf
+PAGE: 2
+METADATA:
+{
+  "doc_id": "b06cf2a09c2660b3",
+  "file_name": "2023_pdf.pdf",
+  "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2023_pdf.pdf",
+  "page": 2,
+  "page_index": 1,
+  "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\b06cf2a09c2660b3\\page_2.png",
+  "source_kind": "text",
+  "chunk_type": "page_text"
+}
+
+CONTENT:
+[DOCUMENT: 2023_pdf.pdf]
+[PAGE: 2]
+[SOURCE TYPE: PDF TEXT]
+
+COVER PHOTOGRAPH ©Curioso.Photography/Shutterstock.com
+SPAIN. Fruit market in La Boqueria marketplace in Barcelona.
+Required citation:
+FAO. 2023. In Brief to The State of Food and Agriculture 2023. Revealing the true cost of food to transform agrifood 
+systems. Rome.
+https://doi.org/10.4060/cc7937en
+This booklet contains the key messages and content from the publication The State of Food and Agriculture 2023. 
+The numbering of figures corresponds to that publication.

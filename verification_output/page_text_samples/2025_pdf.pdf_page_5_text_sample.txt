@@ -1,0 +1,58 @@
+FILE: 2025_pdf.pdf
+PAGE: 5
+METADATA:
+{
+  "doc_id": "9f0b6904723a9850",
+  "file_name": "2025_pdf.pdf",
+  "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+  "page": 5,
+  "page_index": 4,
+  "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_5.png",
+  "source_kind": "text",
+  "chunk_type": "page_text"
+}
+
+CONTENT:
+[DOCUMENT: 2025_pdf.pdf]
+[PAGE: 5]
+[SOURCE TYPE: PDF TEXT]
+
+the kilocalories provided by crops globally; they play a 
+key role in global trade and supply chains. On the other 
+hand, smallholders, while producing just 16 percent 
+globally, are vital in low- and lower-middle-income 
+countries, where they account for about 60 percent.
+9
+Restoration strategies must be tailored to the 
+severity and context of land degradation. Severely 
+degraded areas may require transformative 
+interventions, while land still in production can benefit 
+from improved management practices.
+10
+Agri-environmental policies aimed at 
+improving land use and management are 
+expanding globally, but their adoption remains uneven. 
+While high-income countries have implemented a wide 
+range of regulatory and incentive-based approaches, 
+low-income countries face constraints in deploying 
+such measures; this highlights disparities in policy 
+priorities, institutional capacity and access to 
+resources.
+11
+Regulatory measures consistently improve land 
+conditions across all land cover types; on the 
+other hand, agri-environmental payments are 
+particularly effective on forest lands and croplands - 
+but they require funding. A combination of both 
+approaches generates the greatest potential to align 
+private incentives with public benefits for reversing 
+land degradation.
+12
+Land degradation is neither inevitable nor 
+irreversible. Strategic investments in people, 
+institutions and land-friendly practices can transform 
+agriculture from a driver of degradation to a source of 
+restoration, strengthening agrifood systems and 
+safeguarding the natural foundations of human 
+well-being.
+| 5 |

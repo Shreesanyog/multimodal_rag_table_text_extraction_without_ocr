@@ -1,0 +1,26 @@
+FILE: 2023_pdf.pdf
+PAGE: 1
+METADATA:
+{
+  "doc_id": "b06cf2a09c2660b3",
+  "file_name": "2023_pdf.pdf",
+  "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2023_pdf.pdf",
+  "page": 1,
+  "page_index": 0,
+  "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\b06cf2a09c2660b3\\page_1.png",
+  "source_kind": "text",
+  "chunk_type": "page_text"
+}
+
+CONTENT:
+[DOCUMENT: 2023_pdf.pdf]
+[PAGE: 1]
+[SOURCE TYPE: PDF TEXT]
+
+IN BRIEF 
+FOOD AND 
+AGRICULTURE
+THE STATE OF 
+REVEALING THE TRUE COST 
+OF FOOD TO TRANSFORM 
+AGRIFOOD SYSTEMS

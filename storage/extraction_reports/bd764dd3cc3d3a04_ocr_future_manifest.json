@@ -1,0 +1,94 @@
+{
+  "file_name": "2021_pdf.pdf",
+  "doc_id": "bd764dd3cc3d3a04",
+  "mode": "text_table_only_no_ocr",
+  "pages": 28,
+  "structured_tables": [
+    {
+      "table_number": "2",
+      "page": 18,
+      "caption": "TABLE 2 INDICATORS OF UNAFFORDABILITY OF HEALTHY DIETS",
+      "method": "custom_2021_table2_word_position",
+      "rows": 15,
+      "columns": 5
+    },
+    {
+      "table_number": "5",
+      "page": 25,
+      "caption": "TABLE 5 ENTRY POINTS TO MANAGE AGRIFOOD SYSTEMS’ RISK AND UNCERTAINTY",
+      "method": "custom_2021_table5_section_band",
+      "rows": 4,
+      "columns": 4
+    }
+  ],
+  "ocr_future_items": [
+    {
+      "item_type": "page",
+      "page": 27,
+      "reason": "Page has very little extractable text. May require OCR later."
+    },
+    {
+      "item_type": "table",
+      "number": "1",
+      "page": 17,
+      "caption": "TABLE 1 INDICATORS OF RESILIENCE AND VULNERABILITY OF FOOD TRANSPORT NETWORKS",
+      "reason": "Color/legend-style table. Normal text extraction can miss visual category cells."
+    },
+    {
+      "item_type": "figure",
+      "number": "BOX 1",
+      "page": 10,
+      "caption": "FIGURE FROM BOX 1 A CONCEPTUAL FRAMEWORK FOR AGRIFOOD SYSTEMS",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "1",
+      "page": 11,
+      "caption": "FIGURE 1 AGRIFOOD SYSTEMS’ RESILIENCE AND THE SIX DIMENSIONS OF FOOD SECURITY",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "2",
+      "page": 12,
+      "caption": "FIGURE 2 CONCEPTUAL FRAMEWORK FOR AGRIFOOD SYSTEMS’ RESILIENCE ANALYSIS",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "3",
+      "page": 14,
+      "caption": "FIGURE 3 PPFI FOR PROTEIN, 2016–2018",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "4",
+      "page": 15,
+      "caption": "FIGURE 4 DSFI FOR KILOCALORIES, 2016–2018",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "6",
+      "page": 19,
+      "caption": "FIGURE 6 PLACEMENT OF SELECTED COUNTRIES BASED ON THE LEVEL OF ECONOMIC ACCESS",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "8",
+      "page": 20,
+      "caption": "FIGURE 8 A SIMPLIFIED ILLUSTRATION OF THREE TYPES OF FOOD SUPPLY CHAINS REGARDING",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "9",
+      "page": 23,
+      "caption": "FIGURE 9 RIMA RESILIENCE PILLARS BY COUNTRY PROFILE",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    }
+  ]
+}

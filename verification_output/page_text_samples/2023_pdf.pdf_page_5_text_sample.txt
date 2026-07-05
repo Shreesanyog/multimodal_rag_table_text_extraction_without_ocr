@@ -1,0 +1,39 @@
+FILE: 2023_pdf.pdf
+PAGE: 5
+METADATA:
+{
+  "doc_id": "b06cf2a09c2660b3",
+  "file_name": "2023_pdf.pdf",
+  "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2023_pdf.pdf",
+  "page": 5,
+  "page_index": 4,
+  "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\b06cf2a09c2660b3\\page_5.png",
+  "source_kind": "text",
+  "chunk_type": "page_text"
+}
+
+CONTENT:
+[DOCUMENT: 2023_pdf.pdf]
+[PAGE: 5]
+[SOURCE TYPE: PDF TEXT]
+
+10
+The new national-level estimates are a first 
+step in raising awareness, even if they are 
+incomplete and involve a high degree of uncertainty. 
+Targeted true cost accounting assessments that also 
+look at the cost of different abatement actions - the 
+focus of next year’s report - are needed to inform 
+decision-makers on how to leverage policy, regulation, 
+standards and private capital for a transition towards 
+sustainable agrifood systems.
+11
+For true cost accounting assessments at scale, 
+innovations in research and data, as well as 
+investments in data collection and capacity building, 
+are needed to scale the application of true cost 
+accounting, especially in low- and middle-income 
+countries, so that it can become a viable tool for 
+informing decision- and policymaking in a transparent 
+and consistent way.
+| 5 |

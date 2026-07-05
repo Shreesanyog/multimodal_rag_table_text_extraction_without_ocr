@@ -1,0 +1,60 @@
+FILE: 2025_pdf.pdf
+PAGE: 3
+METADATA:
+{
+  "doc_id": "9f0b6904723a9850",
+  "file_name": "2025_pdf.pdf",
+  "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+  "page": 3,
+  "page_index": 2,
+  "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_3.png",
+  "source_kind": "text",
+  "chunk_type": "page_text"
+}
+
+CONTENT:
+[DOCUMENT: 2025_pdf.pdf]
+[PAGE: 3]
+[SOURCE TYPE: PDF TEXT]
+
+| 3 |
+CORE MESSAGES
+4
+FOREWORD
+6
+SUMMARY
+9
+ FIGURE 3 Spectrum of land degradation and 
+restoration pathways
+10
+ FIGURE 5 Drivers of agricultural land use and 
+management
+11
+ FIGURE 10 Population hotspots exposed to 
+degradation-induced yield losses and all-cause 
+yield gaps
+13
+ FIGURE 9 Estimated annual and average production 
+losses due to land degradation by income group
+14
+ FIGURE 11 Poverty, degradation-induced yield losses 
+and all-cause yield gaps for sub-Saharan Africa and 
+Southern Asia
+15
+ FIGURE 13 Distribution of 571 million farms 
+by region, 2025
+16
+ FIGURE 15 Proportion of holdings and area operated 
+by region
+17
+ FIGURE 18 Share of dietary energy, proteins and fats 
+supplied by crop production by farm size
+18
+ TABLE 3 Land management vs land-use change 
+interventions by type of policy instrument
+22
+ FIGURE 24 Strategic responses across land degradation 
+stages: from improving land management to full-scale 
+land restoration
+23
+CONTENTS

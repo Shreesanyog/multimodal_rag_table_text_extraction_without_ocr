@@ -1,0 +1,86 @@
+{
+  "file_name": "2025_pdf.pdf",
+  "doc_id": "9f0b6904723a9850",
+  "mode": "text_table_only_no_ocr",
+  "pages": 28,
+  "structured_tables": [
+    {
+      "table_number": "3",
+      "page": 22,
+      "caption": "TABLE 3 LAND MANAGEMENT VS LAND-USE CHANGE INTERVENTIONS BY TYPE OF POLICY INSTRUMENT",
+      "method": "custom_2025_table3_section_row_column",
+      "rows": 12,
+      "columns": 4
+    }
+  ],
+  "ocr_future_items": [
+    {
+      "item_type": "page",
+      "page": 27,
+      "reason": "Page has very little extractable text. May require OCR later."
+    },
+    {
+      "item_type": "figure",
+      "number": "3",
+      "page": 10,
+      "caption": "FIGURE 3 SPECTRUM OF LAND DEGRADATION AND RESTORATION PATHWAYS",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "5",
+      "page": 11,
+      "caption": "FIGURE 5 DRIVERS OF AGRICULTURAL LAND USE AND MANAGEMENT",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "10",
+      "page": 13,
+      "caption": "FIGURE 10 POPULATION HOTSPOTS EXPOSED TO DEGRADATION-INDUCED YIELD LOSSES AND",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "9",
+      "page": 14,
+      "caption": "FIGURE 9 ESTIMATED ANNUAL AND AVERAGE PRODUCTION LOSSES DUE TO LAND DEGRADATION",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "11",
+      "page": 15,
+      "caption": "FIGURE 11 POVERTY, DEGRADATION-INDUCED YIELD LOSSES AND ALL-CAUSE YIELD GAPS FOR",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "13",
+      "page": 16,
+      "caption": "FIGURE 13 DISTRIBUTION OF 571 MILLION FARMS BY REGION, 2025",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "15",
+      "page": 17,
+      "caption": "FIGURE 15 PROPORTION OF HOLDINGS AND AREA OPERATED BY REGION",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "18",
+      "page": 18,
+      "caption": "FIGURE 18 SHARE OF DIETARY ENERGY, PROTEINS AND FATS SUPPLIED BY CROP PRODUCTION",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    },
+    {
+      "item_type": "figure",
+      "number": "24",
+      "page": 23,
+      "caption": "FIGURE 24 STRATEGIC RESPONSES ACROSS LAND DEGRADATION STAGES: FROM IMPROVING",
+      "reason": "Figure/chart/diagram/map requires OCR or visual understanding. Not indexed in text-table-only mode."
+    }
+  ]
+}

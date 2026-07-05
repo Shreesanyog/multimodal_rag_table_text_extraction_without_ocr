@@ -1,0 +1,93 @@
+FILE: 2021_pdf.pdf
+PAGE: 4
+METADATA:
+{
+  "doc_id": "bd764dd3cc3d3a04",
+  "file_name": "2021_pdf.pdf",
+  "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2021_pdf.pdf",
+  "page": 4,
+  "page_index": 3,
+  "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\bd764dd3cc3d3a04\\page_4.png",
+  "source_kind": "text",
+  "chunk_type": "page_text"
+}
+
+CONTENT:
+[DOCUMENT: 2021_pdf.pdf]
+[PAGE: 4]
+[SOURCE TYPE: PDF TEXT]
+
+1
+To preserve their functionality and ensure the 
+food security, nutrition and livelihoods of millions 
+of people, agrifood systems must become more 
+resilient to increasing shocks and stresses of diverse 
+origins, both biophysical and socio-economic.
+2
+Because agrifood systems are complex - 
+including primary production, food supply 
+chains, domestic transport networks and 
+households - and involve many interlinked actors, 
+a shock in any component can spread rapidly 
+throughout systems.
+3
+The fragility of agrifood systems can affect large 
+numbers of people: already 3 billion people 
+cannot afford a healthy diet and an additional 
+1 billion would join their ranks if a shock reduced 
+their income by one-third. Food costs could increase 
+for up to 845 million people if a disruption to critical 
+transport links were to occur.
+4
+Of the five distinct resilience capacities agrifood 
+systems must have - to prevent, anticipate, 
+absorb, adapt and transform - absorptive capacity is 
+critical in confronting unforeseen shocks and is 
+complementary to risk management of shocks that 
+can be anticipated.
+5
+Key to building the absorptive capacity of 
+agrifood systems is diversity in food sources 
+(domestic production, imports or existing stocks), 
+diversity of actors in food supply chains, redundant 
+and robust transport networks, and affordability of a 
+healthy diet for all households, particularly the 
+poorest and most vulnerable. 
+6
+Risk management strategies for shocks such as 
+droughts, floods and pests - including multi-risk 
+assessments, timely forecasts, early warning systems 
+and early action plans - are key to help all agrifood 
+systems’ actors prevent and anticipate major 
+disruptions to systems and avoid human suffering and 
+costly recovery interventions. 
+7
+Enhancing the resilience of food supply chains 
+requires government support to develop small and 
+medium agrifood enterprises, cooperatives, consortia 
+and clusters, as well as social protection programmes.
+8
+Resilience capacities of rural low-income 
+households, in particular small-scale producers 
+whose livelihoods are increasingly vulnerable to 
+climate shocks and depletion of natural resources, can 
+be significantly strengthened through education, 
+non-farm employment and cash transfers.
+9
+Ensuring economic access to sufficient food for a 
+healthy diet at all times is a key dimension of 
+agrifood systems’ resilience. Policies and investments 
+that reduce poverty, generate decent employment and 
+expand access to education and basic services, as well 
+as social protection programmes when needed, are 
+essential building blocks of resilience.
+10
+Building resilient agrifood systems should be a 
+key policy objective and must ensure that all 
+agrifood systems’ components function well over time. 
+This requires mainstreaming resilience in agrifood 
+policies and greater coordination across all relevant 
+sectors and layers of government institutions to 
+ensure policy coherence.
+CORE MESSAGES
+| 4 |

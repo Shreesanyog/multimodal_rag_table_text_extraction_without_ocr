@@ -1,0 +1,68 @@
+FILE: 2025_pdf.pdf
+PAGE: 2
+METADATA:
+{
+  "doc_id": "9f0b6904723a9850",
+  "file_name": "2025_pdf.pdf",
+  "source_pdf": "D:\\sourcelens_text_table_rag\\data\\preloaded\\2025_pdf.pdf",
+  "page": 2,
+  "page_index": 1,
+  "image_path": "D:\\sourcelens_text_table_rag\\storage\\page_images\\9f0b6904723a9850\\page_2.png",
+  "source_kind": "text",
+  "chunk_type": "page_text"
+}
+
+CONTENT:
+[DOCUMENT: 2025_pdf.pdf]
+[PAGE: 2]
+[SOURCE TYPE: PDF TEXT]
+
+This booklet contains the core messages and content from The State of Food and Agriculture 2025. The numbering of 
+tables and figures corresponds to that publication, available at: https://doi.org/10.4060/cd7067en
+Required citation: 
+FAO. 2025. In Brief to The State of Food and Agriculture 2025 - Addressing land degradation across landholding scales. 
+Rome. https://doi.org/10.4060/cd7071en
+ 
+The designations employed and the presentation of material in this information product do not imply the expression of 
+any opinion whatsoever on the part of the Food and Agriculture Organization of the United Nations (FAO) concerning the 
+legal or development status of any country, territory, city or area or of its authorities, or concerning the delimitation of its 
+frontiers or boundaries. Dashed lines on maps represent approximate border lines for which there may not yet be full 
+agreement. The mention of specific companies or products of manufacturers, whether or not these have been patented, 
+does not imply that these have been endorsed or recommended by FAO in preference to others of a similar nature that 
+are not mentioned. 
+ 
+ISBN 978-92-5-140144-6
+© FAO, 2025
+ 
+ 
+ 
+Some rights reserved. This work is made available under the Creative Commons Attribution- 4.0 International licence 
+(CC BY 4.0: https://creativecommons.org/licenses/by/4.0/legalcode.en). 
+Under the terms of this licence, this work may be copied, redistributed and adapted, provided that the work is 
+appropriately cited. In any use of this work, there should be no suggestion that FAO endorses any specific organization, 
+products or services. The use of the FAO logo is not permitted. If a translation or adaptation of this work is created, it 
+must include the following disclaimer along with the required citation: “This translation [or adaptation] was not created 
+by the Food and Agriculture Organization of the United Nations (FAO). FAO is not responsible for the content or accuracy 
+of this translation [or adaptation]. The original English edition shall be the authoritative edition.” 
+ 
+Any dispute arising under this licence that cannot be settled amicably shall be referred to arbitration in accordance with 
+the Arbitration Rules of the United Nations Commission on International Trade Law (UNCITRAL). The parties shall be 
+bound by any arbitration award rendered as a result of such arbitration as the final adjudication of such a dispute. 
+ 
+Third-party materials. This Creative Commons licence CC BY 4.0 does not apply to non-FAO copyright materials included 
+in this publication. Users wishing to reuse material from this work that is attributed to a third party, such as tables, 
+figures or images, are responsible for determining whether permission is needed for that reuse and for obtaining 
+permission from the copyright holder. The risk of claims resulting from infringement of any third-party-owned component 
+in the work rests solely with the user. 
+ 
+FAO photographs. FAO photographs that may appear in this work are not subject to the above-mentioned Creative 
+Commons licence. Queries for the use of any FAO photographs should be submitted to: 
+photo-library@fao.org. 
+ 
+Sales, rights and licensing. FAO information products are available on the FAO website (www.fao.org/publications) and 
+print copies can be purchased through the distributors listed there. For general enquiries about FAO publications please 
+contact: publications@fao.org. Queries regarding rights and licensing of publications should be submitted to: 
+copyright@fao.org. 
+ 
+COVER PHOTOGRAPH © iStock.com/Andrey Danilovich
+RUSSIAN FEDERATION. Aerial view of cereal fields.
