@@ -30,7 +30,7 @@ pip install -r requirement.txt
 python prepare_kb.py
 ```
 
-**6. Run the application:
+6. Run the application:
 ```
 streamlit run app.py
 ```
