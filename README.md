@@ -1,6 +1,6 @@
 # Setup Instructions
 
-**1. Create a `.env` file** in the project folder and paste this exact content inside:
+1. Create a `.env` file** in the project folder and paste this exact content inside:
 ```env
 GOOGLE_API_KEY=
 GEMINI_CHAT_MODEL=gemini-2.5-flash
@@ -10,22 +10,22 @@ DEFAULT_ADMIN_PASSWORD=admin123
 
 ```
 
-**2. Create a virtual environment:
+2. Create a virtual environment:
 ```
 python -m venv venv
 ```
 
-**3. Activate the virtual environment:
+3. Activate the virtual environment:
 
 Windows: venv\Scripts\activate
 
 Mac/Linux: source venv/bin/activate
 
-**4. Install requirements:
+4. Install requirements:
 ```
 pip install -r requirement.txt
 ```
-**5. Prepare the knowledge base:
+5. Prepare the knowledge base:
 ```
 python prepare_kb.py
 ```
