@@ -1,6 +1,6 @@
 # Setup Instructions
 
-1. Create a `.env` file** in the project folder and paste this exact content inside:
+1. Create a `.env` file in the project folder and paste this exact content inside:
 ```env
 GOOGLE_API_KEY=
 GEMINI_CHAT_MODEL=gemini-2.5-flash
